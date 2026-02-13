@@ -1,0 +1,11 @@
+cord stock-based compensation expense for service-based stoc k options and restricted stock units (“RSU(s)”) on a straight-
+line basis over the requisite service period, which is generally four years. 
+For stock options with service-based vesting conditions only, th e valuation model, typically th e Black-Scholes option-pricing 
+model, incorporates various assumptions in cluding expected stock price volatility, expect ed term and risk-free interest rates. We 
+estimate the volatility of common stock on the date of grant ba sed on the weighted-average historical stock price volatility of our own 
+shares or comparable publicly traded companies in our industry group. The risk-free interest rate is based on the U.S. Treasury  yield 
+curve in effect at the time of grant with a term equal to the expected term. We estimate the expected term based on the simplif ied 
+method for employee stock options considered to be “plain vanilla” options, as our historical share option exercise experience does not 
+provide a reasonable basis upon which to estimate the expected term. We estimate the expected term for non-employees’ options based 
+on the contractual term. The expected dividend yield is 0.0% as  we have not paid and do not anticipate paying dividends on our 
+common stock.

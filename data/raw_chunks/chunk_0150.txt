@@ -1,0 +1,10 @@
+r misconduct. These faciliti es may also be vulnerable to damage or interruption from power  loss, 
+telecommunications failures, fires, floods, earthquakes, hurricanes , tornadoes, and similar events. Our systems do not provide 
+complete redundancy of data storage or processing, and as a resu lt, the occurrence of any such event, a decision by our third-p arty 
+service providers to close our co-located data centers without adequate notice, or other unanticipated problems may result in o ur 
+inability to serve data reliably  or require us to migrate our data to either a new on-premise data center or cloud computing se rvice. 
+This could be time consuming and costly and may result in the loss of data, any of which coul d significantly interrupt the provision of 
+our products and offerings and harm our reput ation and brand. We may not be able to easily switch to another cloud or data cent er 
+provider in the event of any disruptions or interference to the se rvices we use, and even if we do, other cloud and data center  providers 
+are subject to the same risks. Additionally, our co-located data  center facility agreements are of limited durations, and our c o-located 
+data center facilities have no obligation to renew their agreements with us on commercially reasonable terms or at all.

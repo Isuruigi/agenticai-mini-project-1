@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode
+.idea
+
+# Large Models and Data (optional, depending on submission requirements)
+# models/
+# But for this assignment we might want to keep lora adapters if small
+# models/lora_adapters/adapter_model.bin  <-- check size
+*.zip
+checkpoint-*/
+
+# Logs and temp
+*.log
+viz_log.txt
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db

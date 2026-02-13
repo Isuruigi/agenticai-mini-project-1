@@ -1,0 +1,13 @@
+ion that platform users share with us is vital to our business. One key way that 
+Uber addresses this need is through its cybersecurity program, which includes a cybersecurity risk management program. 
+Uber’s Chief Information Security Officer (“CISO”) is respons ible for the cybersecurity program, which is coordinated and 
+primarily executed by the global organization of engineers focu sed on risk management using the NIST Framework (Govern, Identify, 
+Protect, Detect, Respond, and Recover) and activities such as automation, secure development, and advanced analytics and 
+monitoring. The CISO has served in such role since February 202 1 and has more than 20+ years of  engineering and/or cybersecurit y 
+experience, including previously as CISO and Deputy Chief Technology Officer at a Fortune 500 company. 
+The cybersecurity program is also supported by Uber’s Chie f Privacy Officer and Associate General Counsel, Privacy & 
+Cybersecurity (“CPO”), who has served in that role since August 2018. The CPO has over three decades of experience as a legal 
+advisor to multinational corporat ions, including serving as Chief Privacy & Security Counsel fo r a Fortune 100 technology compa ny 
+prior to her role at Uber. 
+The cybersecurity program is supported by other members of Uber’s  senior management team as well, including the Chief Legal 
+Officer, Chief Architect Officer, and Global Data Protection Offi cer.

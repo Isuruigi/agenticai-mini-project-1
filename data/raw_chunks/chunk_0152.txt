@@ -1,0 +1,13 @@
+sely affect our ability to offer our products and offerings and subjects us to 
+possible litigation.  
+30 
+We use third-party open source software in  connection with the development of our pl atform. From time to time, companies that 
+use third-party open source software have fa ced claims challenging the use of such ope n source software and their compliance wi th 
+the terms of the applicable open source license. We may be subject  to suits by parties claiming ownership of what we believe to  be 
+open source software, or claiming non-compliance with the applicable open source licensing terms. Some open source licenses req uire 
+end-users who distribute or make available across a network software and services that include open source software to make 
+available all or part of such software, which in some circum stances could include valuable proprietary code. While we employ 
+practices designed to monitor our complia nce with the licenses of third-party open source software and protect our valuable 
+proprietary source code, we have not run a complete open source license review and may inadvertently use third-party open sourc e 
+software in a manner that exposes us to claims of non-complianc e with the applicable terms of such license, including claims fo r 
+infringement of intellectual property rights or for breach of contract.

@@ -1,0 +1,14 @@
+the markets in which we 
+operate. We do not control all mapping functions employed by our pl atform or Drivers using our platform, and it is possible tha t such 
+mapping functions may not be reliable. If such third parties cease to provide access to the third-party software that we and Dr ivers use, 
+do not provide access to such software on terms that we believe to  be attractive or reasonable, or do not provide us with the m ost 
+current version of such software, we may be required to seek comp arable software from other sources, which may be more expensiv e 
+or inferior, or may not be available at all, any of which would adversely affect our business. 
+Our business depends upon the interoperability of our platform  across devices, operating systems, and third-party applications that 
+we do not control. 
+One of the most important features of our platform is its br oad interoperability with a range of devices, operating systems, an d 
+third-party applications. Our platform is accessible from th e web and from devices running various operating systems such as iO S and  
+29 
+Android. We depend on the accessibility of our platform across these third-party operating systems and applications that we do not 
+control. Moreover, third-party services and products are constantly  evolving, and we may not be able to modify our platform to assure 
+its compatibility with that of other third parties following development changes.

@@ -1,0 +1,11 @@
+r 
+consumers (“Eaters”) with restaurants, grocers and other stores  (collectively, “Merchants”) with delivery service providers 
+(“Couriers”) for meal preparation, grocery and other delivery services. Riders and Eaters are collectively referred to as “end- user(s)” 
+or “consumer(s).” Mobility Drivers and Couriers are collectively referred to as “Driver(s).” Uber also connects consumers with public 
+transportation networks. Uber uses this same network, technology, operational excellence and product expertise to connect shipp ers 
+(“Shippers”) with carriers (“Carriers”) in the freight indus try. The foundation of our platform is this network of Drivers, Cou riers, 
+Merchants, Carriers as well as Riders, Eaters and Shippers (col lectively “Platform Participant(s)”). We define Platform Earner( s) as 
+Drivers, Couriers and Merchants as well as Carriers. Uber is also developing technologies designed to provide new solutions to solve 
+everyday problems. 
+Our technology is used around the world, principally in the United States (“U.S.”) and Canada, Latin America, Europe (excluding 
+Russia), the Middle East, Africa, and Asia Pacific (“APAC”, excluding China and Southeast Asia).

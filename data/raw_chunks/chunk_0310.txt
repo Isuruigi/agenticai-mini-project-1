@@ -1,0 +1,11 @@
+. If an equity i nvestment is considered to be impaired we will establish a new  
+carrying value for the investment and rec ognize an impairment loss through our conso lidated statement of operations. Investment s in 
+debt securities are evaluated for impairme nt quarterly based on whether its fair value has declined below its amortized cost. I n 
+circumstances where we intend to sell, or are more likely than not required to sell the security before it recovers its amortiz ed cost 
+basis, the difference between the fair valu e and amortized cost is recognized as a loss in the consolidated financial statement  of 
+operations, with a corresponding write-down of the security’s amortized cost. In circumstances where neither condition exists, we then 
+evaluate whether a decline is due to credit-related factors. The factors considered in determining whether a credit loss exists  can 
+include the extent to which fair value is  less than the amor tized cost basis, ch anges in the credit quality of the underlying l oan 
+obligor’s, credit ratings actions, as well as other factors. To determine the portion of a decline in fair value that is credit -related, we 
+compare the present value of the expected cash flows of the security discounted at the security’s effective interest rate to the amortized 
+cost basis of the security.

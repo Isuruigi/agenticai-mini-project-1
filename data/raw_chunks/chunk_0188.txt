@@ -1,0 +1,11 @@
+tform users use our platform or could cause some platform users to stop using our platform 
+entirely, which could adversely affect our business, financial c ondition, operating results, and prospects. Further, as a resul t of 
+implementing SCA, many payment transactions on our platform may fa il to be authenticated due to platform users not completing a ll 
+necessary authentication steps. Thus, in some cases, we may not receive payment from consumers in advance of paying Drivers for  
+services received by those users. A substantial increase in th e frequency with which we make Driver payments without having 
+received corresponding payments from consumers could adversely af fect our business, financial condition, operating results, and  
+prospects. 
+In addition, laws related to money transmission and online paymen ts are evolving, and changes in such laws could affect our 
+ability to provide payment processing on our platform in the same form and on the same terms as we have historically, or at all . For 
+example, changes to our business in Europe, combined with changes to the EU Payment Services Directive, caused aspects of our 
+payment operations in the EEA to fall within  the scope of European payments regulation.

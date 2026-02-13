@@ -1,0 +1,35 @@
+(540)    —    (17)    —    —    —    (17)  
+Issuance of common stock for settlement of 
+contingent consideration liability   —     132    —    5    —    —    —    5  
+Foreign currency translation adjustment   (3)     —    —    —    81    —    —    81  
+Recognition of non-controlling interest upon 
+capital investment   18     —    —    —    —    —    —    —  
+Recognition of non-controlling interest upon 
+issuance of subsidiary stock   —     —    —    —    —    —    5    5  
+Issuance of Freight subsidiary preferred stock   250     —    —    —    —    —    —    —  
+Net income (loss)   (39)     —    —    —    —    (9,141)    42    (9,099)  
+Balance as of December 31, 2022  $ 430     2,005,486   $ —   $ 40,550   $ (443)   $ (32,767)   $ 734   $ 8,074  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.  
+78 
+UBER TECHNOLOGIES, INC.  
+CONSOLIDATED STATEMENTS OF REDEEMABLE NON-CONTROLLING INTERESTS AND EQUITY 
+(In millions, except share amounts which are reflected in thousands) 
+  Redeemable Non-
+Controlling 
+Interests 
+  Common Stock  Additional Paid-In 
+Capital 
+ Accumulated Other 
+Comprehensive 
+Income (Loss) 
+ Accumulated 
+Deficit 
+ Non-Redeemable 
+Non-Controlling 
+Interests 
+ 
+Total Equity     Shares  Amount      
+Balance as of December 31, 2022  $ 430     2,005,486   $ —   $ 40,550   $ (443)   $ (32,767)   $ 734   $ 8,074  
+Exercise of stock options   —     7,747    —    46    —    —    —    46  
+Stock-based compensation   —     —    —

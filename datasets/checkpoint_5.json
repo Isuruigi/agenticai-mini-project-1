@@ -1,0 +1,352 @@
+[
+  {
+    "instruction": "What is Uber Technologies, Inc.'s Commission File Number with the SEC?",
+    "input": "",
+    "output": "Uber Technologies, Inc.'s Commission File Number with the SEC is 001-38902.",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What is the fiscal year end date for Uber's 2024 Annual Report?",
+    "input": "",
+    "output": "Based on the context provided, Uber's fiscal year end date for the 2024 Annual Report is December 31, 2024. This is clearly stated in the Form 10-K filing information which indicates it is an \"ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31, 2024.\"",
+    "chunk_id": 0,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "What is Uber's I.R.S. Employer Identification Number as listed in their Form 10-K filing?",
+    "input": "",
+    "output": "Based on the Form 10-K filing information provided, Uber's I.R.S. Employer Identification Number is 45-2647441.",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "Based on Uber's mission statement, what are the three core value propositions the company offers to users?",
+    "input": "",
+    "output": "Based on Uber's mission statement, the three core value propositions the company offers to users are:\n\n1. **Go anywhere** - helping people with transportation and movement\n2. **Get anything** - enabling people to obtain goods and services\n3. **Earn their way** - providing opportunities for people to generate income\n\nThese value propositions reflect Uber's mission to \"reimagine the way the world moves for the better\" across transportation, delivery, and earning opportunities.",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does Uber's mission statement position the company's approach to market expansion and geographical reach?",
+    "input": "",
+    "output": "Based on the context provided, Uber's mission statement positions the company with a global approach to market expansion, stating they want to help people \"go anywhere and get anything and earn their way\" \"Across the entire world.\" The mission emphasizes real-time, immediate service delivery \"at the incredible speed of now,\" suggesting an aggressive expansion strategy focused on comprehensive geographical coverage and instant accessibility.",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What business philosophy does Uber's mission statement reveal about their approach to real-time service delivery and operational speed?",
+    "input": "",
+    "output": "Based on Uber's mission statement, their business philosophy emphasizes delivering services \"in real time\" and \"at the incredible speed of now.\" This reveals an approach centered on immediacy and instantaneous service delivery, where speed is positioned as a core operational principle that drives their ability to help people \"go anywhere and get anything\" across the entire world.",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does Uber's mission statement suggest they differentiate themselves from traditional transportation and delivery companies?",
+    "input": "",
+    "output": "Based on the context provided, Uber's mission statement suggests they differentiate themselves by emphasizing their role as enablers of movement and opportunity rather than just transportation. They position themselves as \"powering movement\" and helping people \"go anywhere and get anything and earn their way,\" indicating a broader platform approach that encompasses mobility, delivery, and earning opportunities all \"in real time\" and \"at the incredible speed of now.\"",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What tone does Uber establish in their mission statement opening with \"We are Uber. The go-getters\"?",
+    "input": "",
+    "output": "Based on the mission statement opening \"We are Uber. The go-getters. The kind of people who are relentless about our mission,\" Uber establishes a confident, energetic, and determined tone. The language emphasizes drive and persistence with phrases like \"relentless,\" \"go-getters,\" and references to movement as their \"lifeblood\" that \"runs through our veins.\"",
+    "chunk_id": 0,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "How does the repeated use of \"movement\" and motion-related language throughout the mission statement reinforce Uber's brand identity?",
+    "input": "",
+    "output": "Based on the context provided, Uber uses \"movement\" as their central theme, stating \"Movement is what we power. It's our lifeblood. It runs through our veins.\" The motion-related language reinforces their brand identity by emphasizing their core purpose of helping people \"go anywhere and get anything\" while positioning movement as fundamental to their company culture and daily operations - \"It's what gets us out of bed each morning.\"",
+    "chunk_id": 0,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What does the phrase \"at the incredible speed of now\" suggest about Uber's target audience expectations and technological positioning?",
+    "input": "",
+    "output": "The phrase \"at the incredible speed of now\" suggests that Uber's target audience expects immediate, real-time service delivery, and positions the company as a technology platform capable of meeting instant gratification demands. This positioning emphasizes Uber's technological capability to provide services \"in real time\" across mobility, delivery, and earning opportunities globally.",
+    "chunk_id": 0,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "What is the par value per share of Uber's common stock as registered with the SEC?",
+    "input": "",
+    "output": "Based on the SEC registration information provided, Uber's common stock has a par value of $0.00001 per share.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What is Uber's I.R.S. Employer Identification Number as listed in their 2024 Annual Report?",
+    "input": "",
+    "output": "Based on the 2024 Annual Report, Uber's I.R.S. Employer Identification Number is 45-2647441.",
+    "chunk_id": 1,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "Under what trading symbol does Uber's common stock trade on the New York Stock Exchange?",
+    "input": "",
+    "output": "Based on the context provided, Uber's common stock trades under the trading symbol \"UBER\" on the New York Stock Exchange.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "Based on Uber's SEC registration status as a \"well-known seasoned issuer,\" what does this classification reveal about the company's market position and access to capital markets compared to smaller public companies?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context confirms that Uber is classified as a \"well-known seasoned issuer\" but does not provide any explanation of what this classification means regarding market position or capital market access advantages compared to smaller public companies.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "Given that Uber has no securities registered under Section 12(g) of the Securities Exchange Act and only common stock registered under Section 12(b), what does this suggest about the company's capital structure strategy and approach to equity financing?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only provides factual registration information showing Uber has common stock registered under Section 12(b) and no securities under Section 12(g), but does not contain any analysis or information about the company's capital structure strategy or approach to equity financing.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does Uber's incorporation in Delaware while maintaining principal executive offices in California reflect typical strategic considerations for large public companies regarding corporate governance and operational efficiency?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only provides the factual information that Uber is incorporated in Delaware and has its principal executive offices in San Francisco, California, but does not discuss the strategic considerations, corporate governance implications, or operational efficiency factors behind this corporate structure arrangement.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What competitive advantages might Uber derive from its compliance status as indicated by filing all required SEC reports during the preceding 12 months and maintaining continuous filing requirements for over 90 days?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only confirms that Uber has filed all required SEC reports during the preceding 12 months and has been subject to filing requirements for the past 90 days, but it does not discuss any competitive advantages that might derive from this compliance status.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does the formal, compliance-focused tone of Uber's SEC registration information contrast with the company's typically consumer-facing brand messaging, and what does this suggest about their approach to different stakeholder audiences?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context only contains formal SEC registration information and compliance details, but does not include any examples of Uber's consumer-facing brand messaging or analysis comparing their communication approaches across different stakeholder audiences.",
+    "chunk_id": 1,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "What does the straightforward, checkbox-style presentation of regulatory compliance information reveal about how Uber positions itself to institutional investors versus retail investors?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context provided only shows the standard regulatory filing format required by the SEC, including basic corporate information and mandatory compliance checkboxes. There is no information about how Uber positions itself differently to institutional versus retail investors or any strategic communication approach.",
+    "chunk_id": 1,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "How does the clinical, legal language used in describing Uber's corporate structure and compliance status reflect the company's evolution from a disruptive startup to an established public corporation accountable to regulatory bodies?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only standard SEC filing boilerplate language showing Uber's corporate registration details and compliance checkboxes, but does not include any discussion or analysis of the company's evolution from startup to public corporation or how its language reflects that transformation.",
+    "chunk_id": 1,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What is Uber's filing status classification according to the SEC regulations as indicated in their 2024 Annual Report?",
+    "input": "",
+    "output": "Based on the SEC filing information in Uber's 2024 Annual Report, Uber is classified as a **Large accelerated filer** (marked with ☒). The company is not classified as an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.",
+    "chunk_id": 2,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "How many days of filing requirements has Uber been subject to according to the regulatory compliance section?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context indicates that Uber has been subject to filing requirements for \"the past 90 days\" as a minimum threshold for compliance, but it does not specify the actual number of days Uber has been subject to these requirements.",
+    "chunk_id": 2,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "What specific SEC rule number governs the Interactive Data File submission requirements that Uber confirms compliance with?",
+    "input": "",
+    "output": "Based on the context provided, the specific SEC rule number that governs the Interactive Data File submission requirements that Uber confirms compliance with is **Rule 405 of Regulation S-T (§232.405)**.",
+    "chunk_id": 2,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "Based on Uber's classification as a large accelerated filer, what does this reveal about the company's strategic position and market capitalization relative to regulatory thresholds?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context confirms that Uber is classified as a \"large accelerated filer\" but does not provide the specific regulatory thresholds, market capitalization requirements, or strategic implications associated with this classification.",
+    "chunk_id": 2,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does Uber's status as a large accelerated filer impact its reporting obligations and what competitive advantages might this regulatory classification provide in terms of investor confidence?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only confirms that Uber is classified as a large accelerated filer, but does not provide information about the specific reporting obligations this status entails or any competitive advantages it might provide in terms of investor confidence.",
+    "chunk_id": 2,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What business maturity indicators can be inferred from Uber's progression beyond emerging growth company status, and how might this affect their growth strategies?",
+    "input": "",
+    "output": "Based on the context provided, Uber is classified as a \"large accelerated filer\" and is no longer an \"emerging growth company,\" indicating it has progressed beyond early-stage company status. However, information about specific business maturity indicators or how this affects their growth strategies is not available in this section.",
+    "chunk_id": 2,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "How does Uber's compliance with Interactive Data File requirements under Regulation S-T support their digital transformation strategy and data transparency initiatives?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only confirms that Uber has submitted every Interactive Data File required under Rule 405 of Regulation S-T during the preceding 12 months, but does not provide any information about how this compliance supports their digital transformation strategy or data transparency initiatives.",
+    "chunk_id": 2,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What tone does Uber's meticulous compliance documentation convey about the company's approach to regulatory relationships and corporate governance?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context only shows standard SEC filing checkboxes and compliance confirmations, but does not contain any information about Uber's tone, approach to regulatory relationships, or corporate governance philosophy.",
+    "chunk_id": 2,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does the formal, checkbox-style presentation of regulatory compliance information reflect Uber's evolution from a disruptive startup to an established corporate entity?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only shows the regulatory compliance checkboxes and filing status indicators, but does not contain any information about Uber's evolution from a startup to an established corporate entity or analysis of how this formal presentation reflects that transformation.",
+    "chunk_id": 2,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What does the detailed attention to SEC filing categories and definitions suggest about Uber's target audience of institutional investors versus retail shareholders?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only shows Uber's SEC filing category checkboxes (indicating it's a large accelerated filer) but contains no information about the company's target audience, institutional investors, retail shareholders, or any analysis of what these filing requirements suggest about investor composition.",
+    "chunk_id": 2,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "Under which specific section of the Sarbanes-Oxley Act is Uber required to file reports on management's assessment of internal control effectiveness?",
+    "input": "",
+    "output": "Based on the context provided, Uber is required to file reports on management's assessment of internal control effectiveness under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)). The report indicates that Uber has filed such a report and attestation by their registered public accounting firm, as shown by the checked box (☒).",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "According to the filing checklist, has Uber's registered public accounting firm provided attestation to management's assessment of internal control over financial reporting?",
+    "input": "",
+    "output": "Yes, according to the filing checklist, Uber's registered public accounting firm has provided attestation to management's assessment of internal control over financial reporting. This is indicated by the checked box (☒) next to the statement about filing \"a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act.\"",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What specific SEC rule defines the term \"shell company\" as referenced in Uber's regulatory checklist?",
+    "input": "",
+    "output": "Based on the context provided, the specific SEC rule that defines the term \"shell company\" is **Rule 12b-2 of the Exchange Act**.",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "[Cannot generate additional hard facts questions from this excerpt]",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only regulatory checkbox disclosures from Uber's filing and does not include any substantive information that would allow for generating factual questions about the company's business operations, financial performance, or other material aspects of the 2024 Annual Report.",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "[Cannot generate strategic summary questions from this excerpt - no business strategy content provided]",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only regulatory filing checkboxes and compliance statements, but does not include any information about whether Uber is a shell company, as that specific checkbox response is not shown in this excerpt.",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "[Cannot generate strategic summary questions from this excerpt - no business strategy content provided]",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only regulatory filing checkboxes and compliance statements, but does not include any information about whether Uber is a shell company, as that specific checkbox response is not shown in this excerpt.",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "[Cannot generate strategic summary questions from this excerpt - no business strategy content provided]",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only regulatory filing checkboxes and compliance statements, but does not include any information about whether Uber is a shell company, as that specific checkbox response is not shown in this excerpt.",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "[Cannot generate strategic summary questions from this excerpt - no business strategy content provided]",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only regulatory filing checkboxes and compliance statements, but does not include any information about whether Uber is a shell company, as that specific checkbox response is not shown in this excerpt.",
+    "chunk_id": 3,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "[Cannot generate stylistic/creative questions from this excerpt - no narrative or CEO messaging content provided]",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only regulatory filing checkboxes and compliance statements, but does not include any actual question to answer.",
+    "chunk_id": 3,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "[Cannot generate stylistic/creative questions from this excerpt - no narrative or CEO messaging content provided]\n\nTo create the full set of 10 questions as requested, I would need excerpts from other sections of the annual report that contain financial data, strategic discussions, and executive communications.",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context only contains regulatory filing checkboxes and compliance indicators, but does not include any actual question to answer about Uber's 2024 Annual Report.",
+    "chunk_id": 3,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "What was the aggregate market value of voting and non-voting common equity held by non-affiliates of Uber as of June 28, 2024?",
+    "input": "",
+    "output": "Based on the context provided, the aggregate market value of voting and non-voting common equity held by non-affiliates of Uber as of June 28, 2024 was approximately $147.0 billion. This value was based upon the closing price reported for that date on the New York Stock Exchange.",
+    "chunk_id": 4,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "How many shares of Uber's common stock were outstanding as of February 11, 2025?",
+    "input": "",
+    "output": "According to the report, the number of shares of Uber's common stock outstanding as of February 11, 2025 was 2,089,008,865.",
+    "chunk_id": 4,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "Within how many days after the end of Uber's fiscal year must the company file its Definitive Proxy Statement with the SEC?",
+    "input": "",
+    "output": "Based on the context provided, Uber must file its Definitive Proxy Statement with the SEC within 120 days after the end of its fiscal year ended December 31, 2024.",
+    "chunk_id": 4,
+    "category": "Hard Fact"
+  },
+  {
+    "instruction": "Based on the annual report structure shown in the table of contents, what are the primary business areas that Uber considers significant enough to warrant dedicated sections in Part I of their filing?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe table of contents shown only lists the standard SEC Form 10-K section headings (Item 1. Business, Item 1A. Risk Factors, etc.) but does not provide details about Uber's specific business areas or segments that would be covered within those sections.",
+    "chunk_id": 4,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What does the inclusion of a dedicated \"Cybersecurity\" item (Item 1C) in Part I suggest about Uber's strategic priorities and risk management approach compared to traditional businesses?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only shows that Item 1C is titled \"Cybersecurity\" in the table of contents, but does not provide any content about what this inclusion suggests regarding Uber's strategic priorities or risk management approach compared to traditional businesses.",
+    "chunk_id": 4,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "How does Uber's decision to incorporate portions of their Definitive Proxy Statement by reference into Part III reflect their approach to regulatory compliance and information management?",
+    "input": "",
+    "output": "Based on the context provided, Uber incorporates portions of their Definitive Proxy Statement by reference into Part III of their Annual Report on Form 10-K, with the Proxy Statement to be filed within 120 days after December 31, 2024. However, the context does not contain information about how this decision reflects their approach to regulatory compliance and information management.\n\nInformation not available in this section.",
+    "chunk_id": 4,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What strategic implications can be drawn from Uber's classification as a non-shell company in terms of their operational substance and business model maturity?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only confirms that Uber is classified as a non-shell company (indicated by the \"No ☒\" checkbox), but does not provide any analysis or discussion of the strategic implications of this classification regarding their operational substance or business model maturity.",
+    "chunk_id": 4,
+    "category": "Strategic"
+  },
+  {
+    "instruction": "What does the formal, compliance-focused tone of this annual report excerpt suggest about Uber's evolution from a disruptive startup to an established public company?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context contains only standard SEC filing boilerplate language and regulatory compliance statements that are required for all public companies' annual reports. While this demonstrates Uber's current status as a public company subject to regulatory requirements, the excerpt does not contain any information about Uber's evolution from startup to established company or commentary on its transformation.",
+    "chunk_id": 4,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "How does the structured, regulatory language used throughout this document reflect Uber's target audience shift from consumers and drivers to institutional investors and regulators?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe provided context only shows the cover page and table of contents of Uber's 2024 Annual Report, which contains standard SEC filing language and formatting requirements. There is no information in this section about Uber's target audience shift or how the document's language reflects changes in communication strategy toward institutional investors and regulators versus consumers and drivers.",
+    "chunk_id": 4,
+    "category": "Stylistic"
+  },
+  {
+    "instruction": "What does the systematic organization of risk factors, legal proceedings, and cybersecurity as separate major sections communicate about Uber's transparency strategy and stakeholder communication priorities?",
+    "input": "",
+    "output": "Information not available in this section.\n\nThe context only shows the table of contents structure listing these items as separate sections (Risk Factors as Item 1A, Legal Proceedings as Item 3, and Cybersecurity as Item 1C), but does not contain any information about Uber's transparency strategy or stakeholder communication priorities regarding this organizational approach.",
+    "chunk_id": 4,
+    "category": "Strategic"
+  }
+]

@@ -1,0 +1,13 @@
+ovides quarterly updates to Uber’s senior management regarding cybersecurity risks, as well as interim 
+updates during regular meetings with Uber’s engineering, pr oduct and internal audit leadership. The CISO and CPO also 
+jointly chair Uber’s Privacy and Cybersecurity Council, which provides a venue for cross-functional insight and input into 
+the cybersecurity program and our privacy program as they relate to Uber’s business operations. 
+• Internally conducted environment and vulnerability assessments.  These include regular assessments performed by 
+Uber’s security engineering teams. The findings from thes e assessments are reported to Uber’s senior management, 
+including the CISO, and the Board or Audit Committee. In a ddition, our internal audit function periodically conducts 
+additional reviews and assessments, which are reported to th e Audit Committee. We also conduct table-top exercises to 
+simulate the response to cybersecurity incidents; partic ipants may include, among others, the CISO, the CPO, and 
+representatives from communications, investor relations, finance and legal. 
+• Independent third-party audits and assessments by industry-leading firms. As a global organization, Uber undergoes 
+annual audits to maintain its certification as a Payment Card  Industry Data Security Standard (PCI DSS 4.0) Level 1 
+Merchant and Service provider.

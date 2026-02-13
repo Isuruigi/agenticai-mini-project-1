@@ -1,0 +1,20 @@
+amortized cost, unrealized gains and losses, and fair value of our debt securities (in millions): 
+   As of December 31, 2024 
+   Amortized Cost  Unrealized Gains  Unrealized Losses  Fair Value 
+U.S. government and agency securities  $ 5,843   $ 7   $ (2)   $ 5,848  
+Commercial paper   702    —    —    702  
+Corporate bonds   1,975    1    (2)    1,974  
+Certificates of deposit   38    —    —    38  
+Total  $ 8,558   $ 8   $ (4)   $ 8,562  
+For the years ended December 31, 2022, 2023 and 2024, we did not record any material realized gains or losses for our debt 
+securities. 
+As of December 31, 2023 and 2024, there were no allowance for credit losses related to our debt securities. The weighted-average 
+remaining maturity of our debt securities was less than one year as of December 31, 2024. 
+Derivatives Not Designated as Hedging Instruments 
+As of December 31, 2024, the fair value of our outstanding derivative assets and liab ilities were not mate rial. We did not reco rd 
+any material realized or unrealized gains or losses for our financial derivative instruments during the year ended December 31, 2024. 
+As of December 31, 2024, there were no rights of set-off associated with our foreign currency exchange contracts. 
+The total notional amount of outst anding derivatives not designated as hedgi ng instruments was $1.1 b illion as of December 31, 
+2024. 
+Fair Value Hierarchy 
+We measure our cash equivalents and certain investments at fair value.

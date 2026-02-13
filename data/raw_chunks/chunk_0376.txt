@@ -1,0 +1,13 @@
+rmine that an entity for which we hold a c ontractual or ownership interest in is a VIE and 
+that we are the primary beneficiary, we c onsolidate such entity in the consolidated financial st atements. The primary beneficia ry of a 
+VIE is the party that meets both of the foll owing criteria: (1) has the power to make decisions that most significantly affect the 
+economic performance of the VIE; and (2) has the obligation to absorb  losses or the right to receive benefits that in either ca se could 
+potentially be significant to the VIE. Periodi cally, we determine whether any changes in  the interest or relationship with the entity 
+impact the determination of whether the entity is still a VIE and whether we are still the primary beneficiary. If we are not d eemed to 
+be the primary beneficiary in a VIE, we account for the investment or other variable interests in a VIE in accordance with appl icable 
+GAAP. Refer to Note 15 – Variable Interest Entities for further information. 
+Revenue Recognition 
+We recognize revenue when or as we satisfy our obligations. We derive revenue from Driver s’ and Merchants’ use of our 
+platform, on-demand lead generation, and related services, includi ng facilitating payments from end-users. The service enables 
+Drivers and Merchants to seek, receive and fulfill on-demand requests from end-users seeking Mobility or Delivery services 
+(collectively the “Uber Service”). In many of our markets, we also generate revenue from end-users.

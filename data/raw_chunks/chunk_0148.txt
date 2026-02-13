@@ -1,0 +1,11 @@
+may be disrupted. For certain paym ent methods, including credit and debit cards, we generally pay  
+interchange fees and other processing and gateway fees, and such fees result in significant costs. In addition, online payment providers 
+are under continued pressure to pay increased fees to banks to process funds, and there is no assurance that such online paymen t 
+providers will not pass any increased costs on to merchant part ners, including us. If these fees increase over time, our operat ing costs 
+will increase, which could adversely affect our business, financial condition, and operating results. 
+In addition, system failures have at times prevented us from making payments to Drivers in accordance with our typical timeline s 
+and processes, and have caused substantial Driver dissatisfacti on and generated a significant number of Driver complaints. Futu re 
+failures of the payment processing infrastru cture underlying our platform could cause Drivers to lose trust in our payment oper ations 
+and could cause them to instead use our competitors’ platforms. If the quality or convenience of our payment processing infrastructure 
+declines as a result of these limitations or for any other reason,  the attractiveness of our business to Drivers, merchants, an d Carriers 
+could be adversely affected.

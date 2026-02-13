@@ -1,0 +1,27 @@
+e (expense), net, which primarily includes: interest income; 
+foreign currency exchange gains (losses), net; gain (loss) on business divestitures,  net; unrealized gain (loss) on debt and 
+equity securities, net; and impairment of debt and equity securities; and 
+• Adjusted EBITDA excludes certain legal, tax, and regulatory reserve changes and settlements that may reduce cash available 
+to us.  
+62 
+ The following table presents a reconciliation of net income attributable to Uber Technologies, Inc., the most directly comparable 
+GAAP financial measure, to Adjusted EBITDA for each of the periods indicated: 
+  Year Ended December 31, 
+(In millions)  2023  2024 
+     
+Adjusted EBITDA reconciliation:     
+Net income attributable to Uber Technologies, Inc.  $ 1,887   $ 9,856  
+Add (deduct):     
+Net income (loss) attributable to non-controlling interests, net of tax   269    (11)  
+(Income) loss from equity method investments   (48)    38  
+Provision for (benefit from) income taxes   213    (5,758)  
+Other (income) expense, net   (1,844)    (1,849)  
+Interest expense   633    523  
+Income from operations   1,110    2,799  
+Add (deduct):     
+Depreciation and amortization   823    711  
+Stock-based compensation expense   1,935    1,796  
+Legal, tax, and regulatory reserve changes and settlements   9    1,123  
+Goodwill and asset impairments/loss on sale of assets   84    3  
+Acquisition, financing and divestitures related expenses   36    25  
+Loss on lease arrangements, net   4

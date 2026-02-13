@@ -1,0 +1,17 @@
+$ 22,798  
+Delivery   15,026    15,595    16,094    17,011    17,699    18,126    18,663    20,126  
+Freight   1,401    1,278    1,284    1,279    1,282    1,272    1,308    1,273  
+Adjusted EBITDA. See the section titled “Reconciliations of Non-GAAP Financial Measures” for our definition and a 
+reconciliation of net income attributable to Uber Technologies, Inc. to Adjusted EBITDA. 
+  Year Ended December 31,   
+(In millions, except percentages)  2023  2024  % Change 
+Adjusted EBITDA  $ 4,052   $ 6,484    60 % 
+2024 Compared to 2023 
+Adjusted EBITDA improved $2.4 billion, to $6.5 billion, primarily attributable to a $1.5 billion increase in Mo bility Adjusted 
+EBITDA, a $965 million improvement in Deliv ery Adjusted EBITDA, partially offset by a $57 million increase in Corporate G&A 
+and Platform R&D costs. 
+Reconciliations of Non-GAAP Financial Measures 
+We collect and analyze operating and financial data to evaluate the health of our business and assess our performance. In addit ion 
+to revenue, net income (loss), income (los s) from operations, and other results under GAAP, we use Adjusted EBITDA, revenue 
+growth rates in constant currency and free cash flow, which are described below, to evaluate our business. We use these non-GAA P 
+financial measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons.

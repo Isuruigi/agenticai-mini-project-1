@@ -1,0 +1,11 @@
+s a payment services provider. Were local regulators to determine that 
+such arrangements require us to be so licensed, such regulators ma y block payments to Drivers, merchants, Shippers or Carriers.  Such 
+regulatory actions, or the need to obtain regulatory approvals, could impose significant costs and involve substantial delay in payments 
+we make in certain local markets, any of which could adversely affect our business, financial condition, or operating results. 
+Payments made by platform users with payment instruments or pa yment accounts issued in jurisdictions such as the EEA, the UK 
+and Mexico for services provided through our platform may be  subject to Strong Customer Au thentication (“SCA”) regulatory 
+requirements. In many cases, SCA will require a platform user to  engage in additional steps to authenticate each payment transaction. 
+These additional authentication requirements in the EEA, UK and Mexi co or similar requirements, such as tokenization, in other 
+countries may make our platform user expe rience substantially less convenient, and su ch loss of convenience could meaningfully 
+reduce the frequency with which platform users use our platform or could cause some platform users to stop using our platform 
+entirely, which could adversely affect our business, financial c ondition, operating results, and prospects.

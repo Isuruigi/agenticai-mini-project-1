@@ -1,0 +1,14 @@
+imate the expected term for non-employees’ options based 
+on the contractual term. The expected dividend yield is 0.0% as  we have not paid and do not anticipate paying dividends on our 
+common stock. 
+Performance-Based Awards 
+We have granted restricted common stock awards (“RSA(s)”), RSUs, stock appreciation rights (“SAR(s)”), and stock options that 
+vest upon the satisfaction of both service-based and perform ance-based conditions. The servic e-based condition for these awards  
+generally is satisfied over three or four  years. The performance-based conditions generally are satisfied upon achieving specif ied 
+performance targets, such as our financial or operating metrics.  We record stock-based compensation expense for performance-bas ed 
+equity awards such as RSAs, RSUs, SARs, and stock options on an  accelerated attribution method over the requisite service perio d, 
+which is generally three or four years, and only if performance-based conditions are considered probable to be satisfied. 
+For performance-based awards and RSUs, we determine the grant-date  fair value to be the fair value of our common stock on the 
+grant date. 
+For performance-based SARs, stock options, and warrants, we determ ine the grant-date fair value utilizing the valuation model a s 
+described above for service-based awards.

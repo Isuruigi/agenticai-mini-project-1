@@ -1,0 +1,35 @@
+ding non-controlling interests   (9,057)    2,178    9,749  
+Less: comprehensive income (loss) attributable to non-controlling interests   3    269    (11)  
+Comprehensive income (loss) attributable to Uber Technologies, Inc.  $ (9,060)   $ 1,909   $ 9,760  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.  
+77 
+UBER TECHNOLOGIES, INC.  
+CONSOLIDATED STATEMENTS OF REDEEMABLE NON-CONTROLLING INTERESTS AND EQUITY 
+(In millions, except share amounts which are reflected in thousands) 
+  Redeemable Non-
+Controlling 
+Interests 
+  Common Stock  Additional Paid-In 
+Capital 
+ Accumulated Other 
+Comprehensive 
+Income (Loss) 
+ Accumulated 
+Deficit 
+ Non-Redeemable 
+Non-Controlling 
+Interests 
+ 
+Total Equity     Shares  Amount      
+Balance as of December 31, 2021  $ 204     1,949,316   $ —   $ 38,608   $ (524)   $ (23,626)   $ 687   $ 15,145  
+Exercise of stock options   —     4,151    —    19    —    —    —    19  
+Stock-based compensation   —     —    —    1,843    —    —    —    1,843  
+Issuance of common stock for settlement of 
+RSUs   —     47,828    —    —    —    —    —    —  
+Issuance of common stock under the Employee 
+Stock Purchase Plan   —     4,599    —    92    —    —    —    92  
+Shares withheld related to net share settlement   —     (540)    —    (17)    —    —    —    (17)  
+Issuance of common stock for settlement of 
+contingent consideration liability   —     132    —    5    —    —    —    5  
+Foreign currency translation adju

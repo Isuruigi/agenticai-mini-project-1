@@ -1,0 +1,36 @@
+ncipal Executive Officer and 
+Principal Financial Officer pursuant to 18 U.S.C. Section 
+1350, as adopted pursuant to Section 906 of the 
+Sarbanes-Oxley Act of 2002.  X         
+97.1  Clawback Policy.    8-K  001-38902  10.1  June 30, 2023 
+101.INS 
+ 
+XBRL Instance Document - the instance document does 
+not appear in the Interactive Data File because its XBRL 
+tags are embedded within the Inline XBRL document.
+           
+101.SCH  XBRL Taxonomy Extension Schema Document.           
+101.CAL 
+ 
+XBRL Taxonomy Extension Calculation Linkbase 
+Document.           
+101.DEF 
+ 
+XBRL Taxonomy Extension Definition Linkbase 
+Document.           
+101.LAB 
+ XBRL Taxonomy Extension Labels Linkbase Document.           
+101.PRE 
+ 
+XBRL Taxonomy Extension Presentation Linkbase 
+Document.           
+104 
+ 
+Cover Page Interactive Data File (formatted as inline 
+XBRL and contained in Exhibit 101).           
+ 
++Portions of this exhibit have been omitted in accordance with Item 601(b)(10)(iv) of Regulation S-K. 
+‡This form of employment agreement will be used for all named executive officer employment agreements entered into and effectiv e 
+after July 1, 2020 unless otherwise noted. 
+* The certifications attached as  Exhibit 32.1 that accompany this Annual Report on Form 10-K are deemed furnished and not filed  
+with the Securities and Exchange Commission and are not to be in corporated by reference into a ny filing of Uber Technologies, I nc.

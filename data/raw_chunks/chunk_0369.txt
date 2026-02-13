@@ -1,0 +1,12 @@
+riod, we eval uate our available-fo r-sale debt securiti es at the individu al 
+security level to determine whether there is a decline in the fair value below its amortized cost basis (an impairment). In circumstances 
+where we intend to sell, or are more likely than not required to  sell, the security before it recovers its amortized cost basis , the 
+difference between fair value and amortize d cost is recognized as a loss in the consolidated statements of operations, with a 
+corresponding write-down of the security’s amortized cost. In circumstances where neither condition ex ists, we then evaluate wh ether 
+a decline is due to credit-related factors. The factors considered in determining whether a credit loss exists can include the extent to  
+86 
+which fair value is less than the amortized cost basis, change s in the credit quality of the unde rlying loan obligors, credit r atings 
+actions, as well as other factors. To determine the portion of a decline in fair value that is credit-related, we compare the p resent value 
+of the expected cash flows of the security discounted at the secu rity’s effective interest rate to the amortized cost basis of the security. 
+A credit-related impairment is limited to the difference between fair value and amortized cost, and recognized as an allowance for 
+credit loss on the consolidated balance sheet with a corresponding adjustment to net income (loss).

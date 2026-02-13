@@ -1,0 +1,12 @@
+y be subject to amendments and regulations that may change over time, or result in additional follow-on laws such as the California 
+Privacy Rights Act (“CPRA”) passed in Cali fornia in November 2020. For further inform ation on risks related to our use of certa in 
+decisions based solely on automated processing or profiling, see th e risk factor titled “—Our growing use of artificial intelli gence and 
+machine learning may present additional risks, including risks asso ciated with algorithm development or use, the tools and data  sets 
+used, and/or a complex, developing regulatory environment.” 
+Additionally, we are subject to laws, rules, and regulations re garding cross-border tr ansfers of personal data, including laws 
+relating to transfer of personal data outside the EEA. We rely on transfer mechanisms permitted under these laws. Such mechanis ms 
+have received heightened regulatory and judicial scrutiny and have undergone modi fications, and a 2020 decision by the Court of  
+Justice of the European Union had cast doubt on the adequacy of all of the formerly-approved mechanisms for transferring person al 
+data from countries in the EEA to certain other countries such as the United States. While in July 2023 the European Commission  
+deemed a new EU-US Data Privacy Framework adequate for personal data transfers from the EU (and the rest of the EEA) to the 
+United States, this Framework has been ch allenged.

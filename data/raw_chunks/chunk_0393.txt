@@ -1,0 +1,14 @@
+ed on a combination of options valued  using the Black-Scholes option-pricing model.  We determine volatility over an expected 
+term of six months and twelve months based on our historical volatility. We estimate the expected term based on the contractual term.  
+91 
+Income Taxes 
+We account for income taxes using the asset and liability met hod, which requires the recognition of deferred tax assets and 
+liabilities for the expected future tax consequences of events that have been recognized in our consolidated financial statements. 
+We account for uncertainty in tax positions  recognized in the consolid ated financial statements by recognizing a tax benefit fr om 
+an uncertain tax position when it is more likely than not that the position will be  sustained upon examination, including resol utions of 
+any related appeals or litigation processes, based on the techni cal merits. Income tax positions must meet a more-likely-than-n ot 
+recognition threshold at the effective date to be recognized. 
+We recognize accrued interest a nd penalties related to unrecognized tax benefits in the provision for (benefit from) income tax es 
+in the consolidated statements of operations. 
+Valuation allowances are established when necessary to reduce de ferred tax assets to the amounts that are more-likely-than-not 
+expected to be realized based on the wei ghting of positive and negative evidence.

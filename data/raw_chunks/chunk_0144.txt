@@ -1,0 +1,14 @@
+uptions for us and platform users. 
+Furthermore, foreign governments may leverage their ability to shut down directed services, and local governments may shut down  
+our platform at the routing level. Any of these events could damage our reputation, significantly disrupt our operations, and s ubject us 
+to liability, which could adversely affect our business, financ ial condition, and operating result s. We have invested significa nt 
+resources to develop new products to mitigate the impact of potential interruptions to mobile communications systems, which can  be 
+used by consumers in territories  where mobile communications sy stems are less efficient. However, these products may ultimately  be 
+unsuccessful. 
+We rely on third parties maintaining open marketplaces to distribute our platform and to provide the software we use in certain  of 
+our products and offerings. If such third parties interfere with  the distribution of our products or offerings or with our use of such 
+software, our business would be adversely affected. 
+Our platform relies on third parties maintaining open marketpl aces, including the Apple App Store and Google Play, which make 
+applications available for download. We cannot assure you that the marketplaces through which we  distribute our platform will 
+maintain their current structures or that such marketplaces will not charge us fe es to list our applications for download. For example, 
+Apple Inc.

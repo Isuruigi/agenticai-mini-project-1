@@ -1,0 +1,11 @@
+s financing transactions, such as the i ssuance of preferred stock to ne w investors. The price in thes e 
+transactions generally provides the best indication of the enterprise value of th e investee. Additionally, based on the timing,  volume, 
+and other characteristics of the transaction, we may supplement this information by using other valuation techniques, including  the 
+guideline public company approach. The guideline public company appr oach relies on publicly availabl e market data of comparable  
+companies and uses compar ative valuation multiple s of the investee’s revenue  (actual and forecasted),  and therefore, unobservab le 
+input used in this valuation technique primarily consists of short-term revenue projections. 
+Once the fair value of the investee is estimated, an option-pr icing model (“OPM”), a common stock equivalent (“CSE”) method 
+or a hybrid approach is employed to allocate value to various classes of securities of the investee, including the class owned by us. The 
+model involves making assumptions around the investees’ expected time to liquidity and volatility. 
+An increase or decrease in any of the unobservable inputs in is olation, such as the security price in a signifi cant financing 
+transaction of the investee, could result in a material increase  or decrease in our estimate of fair value.

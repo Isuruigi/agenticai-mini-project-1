@@ -1,0 +1,20 @@
+associated effective interest rates and maturities were as follows (in millions, except for 
+percentages): 
+  As of December 31,     
+  2023  2024  Effective Interest Rates  Maturities 
+2030 Senior Note  $ —   $ 1,250    4.5 %  January 15, 2030 
+2034 Senior Note   —    1,500    4.9 %  September 15, 2034 
+2054 Senior Note   —    1,250    5.4 %  September 15, 2054 
+2030 Refinanced Term Loans   1,986    —    — %   —  
+2026 Senior Note   1,500    —    — %   —  
+2027 Senior Note   1,200    700    7.7 %  September 15, 2027 
+2028 Senior Note   500    500    7.0 %  January 15, 2028 
+2029 Senior Note   1,500    1,500    4.7 %  August 15, 2029 
+2025 Convertible Notes (1)   1,150    1,150    0.2 %  December 15, 2025 
+2028 Convertible Notes   1,725    1,725    1.1 %  December 1, 2028 
+Total debt   9,561    9,575      
+Less: unamortized discount and issuance costs   (77)    (78)      
+Less: current portion of long-term debt   (25)    (1,150)      
+Total long-term debt  $ 9,459   $ 8,347      
+(1) The 2025 Convertible Notes will mature on December 15, 2025, and is classified within accrued and other current liabilities on 
+our consolidated balance sheet as of December 31, 2024.

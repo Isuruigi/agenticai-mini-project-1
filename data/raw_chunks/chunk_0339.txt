@@ -1,0 +1,40 @@
+f data used by management. 
+ 
+  
+73 
+ 
+/s/ PricewaterhouseCoopers LLP 
+San Francisco, California 
+February 14, 2025 
+ 
+We have served as the Company’s auditor since 2014.  
+74 
+UBER TECHNOLOGIES, INC. 
+CONSOLIDATED BALANCE SHEETS 
+(In millions, except share amounts which are reflected in thousands, and per share amounts) 
+  As of December 31, 2023  As of December 31, 2024 
+Assets     
+Cash and cash equivalents  $ 4,680   $ 5,893  
+Short-term investments   727    1,084  
+Restricted cash and cash equivalents   805    545  
+Accounts receivable, net of allowance of $91 and $95, respectively   3,404    3,333  
+Prepaid expenses and other current assets   1,681    1,390  
+Total current assets   11,297    12,245  
+Restricted cash and cash equivalents   1,519    2,172  
+Restricted investments   4,779    7,019  
+Investments   6,101    8,460  
+Equity method investments   353    302  
+Property and equipment, net   2,073    1,952  
+Operating lease right-of-use assets   1,241    1,158  
+Intangible assets, net   1,425    1,125  
+Goodwill   8,151    8,066  
+Deferred tax assets   170    6,171  
+Other assets   1,590    2,574  
+Total assets  $ 38,699   $ 51,244  
+Liabilities, redeemable non-controlling interests and equity     
+Accounts payable  $ 790   $ 858  
+Short-term insurance reserves   2,077    2,754  
+Operating lease liabilities, current   190    175  
+Accrued and other current liabilities   6,397    7,689  
+Total current liabilities   9,454    11,476  
+Long-term insurance reserves   4,

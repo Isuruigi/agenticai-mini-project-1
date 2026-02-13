@@ -1,0 +1,25 @@
+ettlements   9    1,123  
+Goodwill and asset impairments/loss on sale of assets   84    3  
+Acquisition, financing and divestitures related expenses   36    25  
+Loss on lease arrangements, net   4    2  
+Restructuring and related charges, net   51    25  
+Adjusted EBITDA  $ 4,052   $ 6,484  
+Constant Currency 
+We compare the percent change in our current period result s from the corresponding prior period using constant currency 
+disclosure. We present constant currency growth rate informa tion to provide a framework for assessing how our underlying revenu e 
+performed excluding the effect of foreign currency rate fluctu ations. We calculate constant currency by translating our current  period 
+financial results using the corresponding prior period’s monthly exchange rates for our transacted currencies other than the U.S. dollar.  
+Free Cash Flow 
+We define free cash flow as net cash flows from operating activ ities less capital expenditures. The following table presents a 
+reconciliation of free cash flow to the most directly comparable GAAP financial measure for each of the periods indicated: 
+  Year Ended December 31, 
+(In millions)  2023  2024 
+Free cash flow reconciliation:     
+Net cash provided by operating activities  $ 3,585   $ 7,137  
+Purchases of property and equipment   (223)    (242)  
+Free cash flow  $ 3,362   $ 6,895  
+ 
+Liquidity and Capital Resources 
+  Year Ended December 31, 
+(In millions)  2023  2024 
+Net cash provided by operating activities  $ 3,585

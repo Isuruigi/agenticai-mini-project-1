@@ -1,0 +1,11 @@
+, third-party services and products are constantly  evolving, and we may not be able to modify our platform to assure 
+its compatibility with that of other third parties following development changes.  The loss of interoperability, whether due to actions of 
+third parties or otherwise, could adversely affect our business. 
+We rely on third parties for elements of the payment processing  infrastructure underlying our platform. If these third-party 
+elements become unavailable or unavailable on favorable terms, our business could be adversely affected. 
+The convenient payment mechanisms provided by our platform are key factors contributing to the development of our business. 
+We rely on third parties for elements of our payment-processing infrastructure to comp lete consumer transactions and remit paym ents 
+to Drivers, merchants, and Carriers using our platform, and thes e third parties may refuse to re new our agreements with them on  
+commercially reasonable terms or at all. If these companies beco me unwilling or unable to provide these services to us on accep table 
+terms or at all, our business may be disrupted. For certain paym ent methods, including credit and debit cards, we generally pay  
+interchange fees and other processing and gateway fees, and such fees result in significant costs.

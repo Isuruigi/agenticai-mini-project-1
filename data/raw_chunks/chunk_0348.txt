@@ -1,0 +1,26 @@
+expense   114    92    61  
+Stock-based compensation   1,793    1,935    1,796  
+Loss from sale of investments   —    74    —  
+Gain on business divestitures   (14)    (204)    —  
+Deferred income taxes   (441)    26    (6,027)  
+Accretion of discounts on marketable debt securities, net   (9)    (154)    (251)  
+Impairments of goodwill, long-lived assets and other assets   28    86    —  
+Impairment of equity method investment   182    —    —  
+Loss (income) from equity method investments, net   (107)    (48)    38  
+Unrealized (gain) loss on debt and equity securities, net   7,045    (1,610)    (1,832)  
+Revaluation of MLU B.V . call option   (191)    —    —  
+Unrealized foreign currency transactions   96    138    308  
+Other   2    106    88  
+Change in assets and liabilities, net of impact of business acquisitions and disposals:       
+Accounts receivable   (542)    (758)    (142)  
+Prepaid expenses and other assets   (196)    (1,462)    (694)  
+Operating lease right-of-use assets   193    191    196  
+Accounts payable   (133)    64    86  
+Accrued insurance reserves   730    2,230    2,819  
+Accrued expenses and other liabilities   498    80    330  
+Operating lease liabilities   (215)    (180)    (221)  
+Net cash provided by operating activities   642    3,585    7,137  
+Cash flows from investing activities       
+Purchases of property and equipment   (252)    (223)    (242)  
+Purchases of non-marketable equity securities   (14)    (52)    (289)  
+Purchases of marketabl

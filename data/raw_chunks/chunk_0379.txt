@@ -1,0 +1,15 @@
+whether we control the service provided to the end-use r and 
+are the principal (i.e. “gross”), or we arra nge for other parties to provide the servi ce to the end-user and are an agent (i.e.  “net”). This 
+determination also impacts the presentation of incentives provide d to Drivers and Merchants and discounts and promotions offered to 
+end-users to the extent they are not customers.  
+In Mobility and Delivery transactions where our role is to provi de the Uber Service to Drivers and Merchants to facilitate a 
+successful trip or Delivery service, we do not control and are not primarily responsible for the good or service provided by Drivers and 
+Merchants to end-users. In these transactions, Mobility and Delivery revenue is recorded on a net basis.  
+88 
+In markets where we agree to provide Mobility or Delivery servic es to end-users for a fee, we are primarily responsible for the  
+services and present the respective Mobility and Delivery revenue on a gross basis. Payments to Dr ivers and Couriers in exchang e for 
+their services are recorded as cost of revenue, exclusive of depreciation and amortization. 
+Mobility  
+We derive our Mobility revenue from service fees paid by Drivers for use of the plat form and related service to connect with 
+Riders and successfully complete a trip via the Platform, amounts charged to end-users for Mobility services, and fees charged to end-
+users for use of the platform in certain markets. We recognize revenue when a trip is complete.

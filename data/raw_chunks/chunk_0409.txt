@@ -1,0 +1,19 @@
+25,087  
+Delivery revenue (1)   10,901    12,204    13,750  
+Freight revenue   6,947    5,245    5,141  
+Total revenue  $ 31,877   $ 37,281   $ 43,978  
+(1) We offer subscription memberships to end-users including Uber One, Uber Pass, Rides Pass, and Eats Pass (“Subscription”). 
+We recognize Subscription fees ratably over the life of the pass. We allocate Subscription fees earned to Mobility and Delivery 
+revenue on a proportional basis, based on usage for each offering during the respective period. 
+  Year Ended December 31, 
+  2022  2023  2024 
+United States and Canada ("US&CAN")  $ 19,474   $ 20,436   $ 23,618  
+Latin America ("LatAm")   1,978    2,512    2,795  
+Europe, Middle East and Africa ("EMEA")   6,944    9,904    12,529  
+Asia Pacific ("APAC")   3,481    4,429    5,036  
+Total revenue  $ 31,877   $ 37,281   $ 43,978  
+Revenue 
+Mobility Revenue 
+We derive revenue from fees paid by Mobility Drivers for the use of our platform(s) and related services to facilitate and complete 
+Mobility services and, in certain  markets, revenue from fees pa id by end-users for connection se rvices obtained via the platfor m. 
+Mobility revenue also includes immaterial revenue streams such as our financial partnerships products.

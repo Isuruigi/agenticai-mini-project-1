@@ -1,0 +1,15 @@
+s the asset group to generate. If we consider the asset group  to be impaired, the impairment to be recognized equals the amount 
+by which the carrying value of the asset group exceeds its fair value. 
+Fair Value Measurements and Financial Instruments 
+Fair value is defined as the price that woul d be received to sell an asset or paid to  transfer a liability in an orderly transa ction 
+between market participants at the measurement date. In accord ance with ASC 820, Fair Value Measurement (“ASC 820”), we use the 
+fair value hierarchy, which prioritizes the inputs used to measure fair value. The hi erarchy, as defined below, gives the highest priority 
+to unadjusted quoted prices in active markets for identical assets  or liabilities and the lowest priority to unobservable input s. The three 
+levels of the fair value hierarchy are set forth below:  
+Level 1 Observable inputs such as quoted prices in active markets for identical assets or liabilities.  
+87 
+Level 2 Observable inputs other th an Level 1 prices such as quoted  prices for similar assets or  liabilities in active markets, 
+quoted prices in markets that are not ac tive or inputs other than the quoted prices  that are observable either directly 
+or indirectly for the full term of the assets or liabilities. 
+Level 3 Unobservable inputs in which there is little or no market data and that are significant to the fair value of the assets or 
+liabilities.

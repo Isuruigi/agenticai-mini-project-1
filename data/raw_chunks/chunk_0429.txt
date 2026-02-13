@@ -1,0 +1,28 @@
+24, respectively. 
+Note 6 - Leases  
+Our leases primarily include corporate offices, data centers, a nd servers. The lease term of operating and finance leases vary from 
+less than a year to 76 years. We have leases that include one or more options to extend the lease term for up to 14 years as we ll as 
+options to terminate the lease within one year. Our lease terms may include options to extend or terminate the lease when it is  
+reasonably certain that we will exercise such options. Our lease agreements generally do not contain any residual value guarant ees or 
+restrictive covenants. 
+The components of our lease expense were as follows (in millions): 
+  Year Ended December 31, 
+  2022  2023  2024 
+Lease cost       
+Finance lease cost:        
+      Amortization of assets  $ 186   $ 188   $ 168  
+      Interest of lease liabilities   13    31    25  
+Operating lease cost   304    321    294  
+Short-term lease cost   7    10    2  
+Variable lease cost   142    129    115  
+Sublease income   (17)    (22)    (22)  
+Total lease cost  $ 635   $ 657   $ 582   
+101 
+Supplemental cash flow information related to leases was as follows (in millions): 
+  Year Ended December 31, 
+  2022  2023  2024 
+Other information        
+Cash paid for amounts included in the measurement of lease liabilities:       
+Operating cash flows from financing leases  $ 13   $ 32   $ 26  
+Operating cash flows from operating leases   339    335    332  
+Financing cash flows from financing leases   184    171

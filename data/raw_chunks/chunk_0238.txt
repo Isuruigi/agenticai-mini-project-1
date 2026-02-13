@@ -1,0 +1,14 @@
+r. 
+The cybersecurity program is supported by other members of Uber’s  senior management team as well, including the Chief Legal 
+Officer, Chief Architect Officer, and Global Data Protection Offi cer. Uber’s Board of Directors oversees the cybersecurity prog ram 
+through regular updates.  
+This cybersecurity program is a critical component of Uber’s enterprise risk mana gement program, through which Uber reviews 
+business, cybersecurity, informa tion technology, privacy, legal, and geopolitical risks, among ot hers. The cybersecurity progra m is 
+designed to assess, identify, and manage risks from cybersecurity threats. 
+Key elements of this program include:  
+• Oversight and Governance.  Uber’s Board oversees the cybersecurity program, and Uber’s risk profile with respect to 
+cybersecurity matters, through regular reports and reviews. These include presentations by the CISO to the Board and 
+Audit Committee on an alternating quarterly basis, quarterly re ports of certain cybersecurity incidents to the Board, and 
+annual reports by the CPO to the Board. 
+The CISO also provides quarterly updates to Uber’s senior management regarding cybersecurity risks, as well as interim 
+updates during regular meetings with Uber’s engineering, pr oduct and internal audit leadership.

@@ -1,0 +1,10 @@
+tware in a manner that exposes us to claims of non-complianc e with the applicable terms of such license, including claims fo r 
+infringement of intellectual property rights or for breach of contract. Furthermore, there is an increasing number of open-sour ce 
+software license types, almost none of which have been tested in  a court of law, resulting in a dearth of guidance regarding th e proper 
+legal interpretation of such licenses. If we  were to receive a claim of non-compliance with the terms of any of our open source  
+licenses, we may be required to publicly release certain portions  of our proprietary source code or expend substantial time and  
+resources to re-engineer some or all of our software. 
+In addition, the use of third-party open source software typically exposes us to greater risks than the use of third-party commercial 
+software because open-source licensors generally do not provide wa rranties or controls on the func tionality or origin of the so ftware. 
+Use of open source software may also presen t additional security risks because the public availabi lity of such software may mak e it 
+easier for hackers and other third parties to determine how to compromise our platform.

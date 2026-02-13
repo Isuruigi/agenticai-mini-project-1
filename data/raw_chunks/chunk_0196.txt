@@ -1,0 +1,12 @@
+evant 
+regulatory authorities that it had been subject to a data security  incident that allowed access to certain personal information  of riders 
+and drivers on its platform as of January 14,  2018. If Careem becomes subject to liability  as a result of this or other data se curity 
+incidents or if we fail to remediate this or any other data secu rity incident that Careem or we experience, we may face harm to  our 
+brand, business disruption, and significant liabilities. If we fail  to remediate any data security incident that we experience,
+ we may 
+face harm to our brand, business disrup tion, and significant liabilities. Our insurance programs may not cover all potential cl aims to 
+which we are exposed and may not be adequate to indemnify us for the full extent of our potential liabilities. We may also be impacted 
+by privacy or security incidents at third- party service providers. We rely on third-pa rty service providers to host or otherwis e process 
+some of our data and that of platform users, and they have experienced, and may again experience, security and privacy incident s. Any 
+failure by such third party to prevent or mitigate security breaches or improper access to, or use, acquisition, disclosure, al teration, or 
+destruction of, such data could have similar adverse consequences for us.

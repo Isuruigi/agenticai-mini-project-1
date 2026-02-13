@@ -1,0 +1,12 @@
+te used to determine the present valu e of the 
+future lease payments is our incremental borrowing rate (“IBR”), because the interest rate implicit in most of our leases is no t readily 
+determinable. The IBR is a hypothetical rate based on our unders tanding of what our credit rating would be to borrow and result ing 
+interest we would pay to borrow an amount equal to the lease pa yments in a similar economic environment over the lease term on a 
+collateralized basis. Lease payments may be fixed or variable; however, only fixed payments or in-substance fixed payments are 
+included in our lease liability calculation. Variable lease payments may include costs such as common area maintenance, utiliti es, real 
+estate taxes or other costs. Variable lease payments are recognized in operating expenses in the period in which the obligation for those 
+payments are incurred. 
+Operating leases are included in operating lease ROU assets, operating lease liabilities, current and operating lease liabilities, non-
+current on our consolidated balance sheets. Finance leases are included in property and equipment, net, accrued and other current 
+liabilities, and other long-term liabilities on our consolidated balance sheets. For operating leases, lease expense is recognized on a 
+straight-line basis in operations over the lease term.

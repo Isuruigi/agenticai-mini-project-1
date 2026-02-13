@@ -1,0 +1,22 @@
+{
+  "the_intern": {
+    "rouge_scores": {
+      "ROUGE-1": 0.9822873513219845,
+      "ROUGE-2": 0.9817694731850242,
+      "ROUGE-L": 0.9822873513219845
+    },
+    "avg_latency_ms": 100.56183928493394,
+    "cost": "$0"
+  },
+  "the_librarian": {
+    "rouge_scores": {
+      "ROUGE-1": 0.10632420002590397,
+      "ROUGE-2": 0.03283615566056822,
+      "ROUGE-L": 0.06870964233260138
+    },
+    "avg_latency_ms": 513.3811572585442,
+    "cost": "$0"
+  },
+  "winner": "The Intern",
+  "improvement_percentage": 1317.397509937266
+}

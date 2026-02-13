@@ -1,0 +1,11 @@
+limited to the difference between fair value and amortized cost, and recognized as an allowance for 
+credit loss on the consolidated balance sheet with a corresponding adjustment to net income (loss). Any remaining decline in fair value 
+that is non-credit related is recognized in other comprehensive in come (loss), net of tax. Improvements in expected cash flows due to 
+improvements in credit are recognized through reversal of the credit loss and corresponding reduction in the allowance for credit loss. 
+Derivative Instruments 
+We enter into financial derivative instrume nts, consisting of foreign cu rrency contracts to mitigate the foreign currency excha nge 
+risk of our assets and liabilities denominated in currencies ot her than the functional currency. We do not use derivatives for trading or 
+speculative purposes. These instruments are recorded on the consolidated balance sheets at fair value and classified within Lev el 2 of 
+the fair value hierarchy. Gains and losses on the derivative in struments that are not designated as hedging instruments are rec ognized 
+in other income (expense), net in the consolidated statements  of operations. The cash flows as sociated with our non-designated 
+derivatives are classified in cash flows from investing activities on our consolidated statement of cash flows.

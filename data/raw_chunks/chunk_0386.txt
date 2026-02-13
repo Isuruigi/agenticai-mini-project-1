@@ -1,0 +1,12 @@
+motions:  These discounts and promotions are offered to a limited number of end-users in a 
+market to acquire, re-engage, or generally increase end-users use of the Platform, and are akin to a coupon. An example is an o ffer 
+providing a discount on a limited number of rides or deliveries during a limited time period. We record the cost of these discounts and 
+promotions to end-users who are not our customers as sales and marketing expenses at the time they are redeemed by the end-user. 
+End-user referrals:  These referrals are earned when an existing end-user (the referring end-user) refers a new end-user (the 
+referred end-user) to the platform and the new end-user who is  not our customer completes thei r first transaction on the platfo rm. 
+These referrals are typically paid in the form of a credit given to the referring end-user. These referrals are offered to attr act new end-
+users to the Platform. We record the liability for these referrals and corresponding expenses as sales and marketing expenses a t the 
+time the referral is earned by the referring end-user. 
+Market-wide promotions: These promotions are pricing actions in the form of  discounts that reduce the end-user fare charged by 
+Drivers and Merchants to end-users who are not our customers for all or substantially all Mobility or Delivery offerings in a s pecific 
+market.

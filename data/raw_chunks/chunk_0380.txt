@@ -1,0 +1,14 @@
+te a trip via the Platform, amounts charged to end-users for Mobility services, and fees charged to end-
+users for use of the platform in certain markets. We recognize revenue when a trip is complete.  
+Depending on the market where the trip is comp leted, the service fee is either a fixed percentage of the end-user fare or the 
+difference between the amount paid by an end-user and the amount  earned by Drivers. In markets where we earn the difference 
+between the amount paid by an end-user and the amount earned by Drivers, end-users are quoted a fixed upfront price for ridesha ring 
+services while we pay Drivers based on actual time and distance fo r the ridesharing services provided. We typically receive the service 
+fee within a short period of time following the completion of a trip. 
+In certain markets, end-users have the option to pay cash for trips. Service fees for cash trips are recognized only when colle cted 
+from Drivers as we concluded that collectability of such amounts is not probable until collected. 
+Mobility revenue also includes immaterial revenue streams such as our financial partnerships products. 
+Delivery 
+We derive our Delivery revenue from service fees paid by Couriers  and Merchants for use of the platform and related service to 
+successfully complete meal preparation, grocery and other delivery service on the platform, amounts charged to end-users for Delivery 
+services, and fees charged to end-users for use of the platform in certain markets.

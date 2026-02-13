@@ -1,0 +1,13 @@
+s, initi ally valued 
+at $230 million and measured at fair value on a recurring basis with change s in fair value recorded in other income (expense), net in 
+the consolidated statements of operations.
+ 
+As of December 31, 2022, the fair value of the MLU B.V . Call Option was $2 m illion. We recorded a $191 million net gain for  
+100 
+the fair value change during the year ended December 31, 2022. To  determine the fair value of the MLU B.V . Call Option as of 
+December 31, 2022, we used a lattice model which simulated multiple scenarios of the exercise behaviors and the corresponding strike 
+prices over the term of the call option. Key inputs to the lattice model were: the unde rlying business value; option term of 0. 7 years; 
+volatility of 65%; risk-free interest rates; and strike price (Level 3). 
+As part of our sale of our remaining in terest in MLU B.V . to Yandex during the second quarter of 2023, the MLU B.V . Call 
+Option was extinguished and we recognized a gain that was not mate rial in other income (expense), net in our consolidated state ment 
+of operations during the year ended December 31, 2023.

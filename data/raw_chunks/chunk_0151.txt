@@ -1,0 +1,13 @@
+data  center facility agreements are of limited durations, and our c o-located 
+data center facilities have no obligation to renew their agreements with us on commercially reasonable terms or at all. If we a re unable 
+to renew our agreements with these facilities on commercially re asonable terms, we may experience delays in the provision of ou r 
+products and offerings until an agreement with another co-located data center is arranged. Interruptions in the delivery of our products 
+and offerings may reduce our revenue, cause Drivers, merchants, and Carriers to stop offering their services through our platfo rm, and 
+reduce use of our platform by consumers and Shippers. Our busin ess and operating results may be harmed if current and potential  
+Drivers, consumers, merchants, Shippers, and Carriers believe our platform is unreliable. In addition, if we are unable to scale our data 
+storage and computational capacity sufficie ntly or on commercially r easonable terms, our ability to  innovate and introduce new 
+products on our platform may be delayed or compromised, which would have an adverse effect on our growth and business. 
+Our use of third-party open source software could adversely affect our ability to offer our products and offerings and subjects us to 
+possible litigation.  
+30 
+We use third-party open source software in  connection with the development of our pl atform.

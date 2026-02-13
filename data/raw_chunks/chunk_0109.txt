@@ -1,0 +1,11 @@
+liability and a material  loss of revenue resulting from the adverse impact on our reputat ion and 
+brand, a diminished ability to retain or attract new platform users, and disruption to our business. We rely on third-party ser vice 
+providers to host or otherwise process some  of our data and that of platform users,  and they have experienced, and may again 
+experience, security and privacy incidents.  Any failure by such third party to preven t or mitigate security breaches or imprope r access 
+to, or use, acquisition, disclosure, alteration, or destruction of, such data could have similar adverse consequences for us. 
+Because the techniques used to obtain unauthorized access, disable or degrade services, or sabotage systems change frequently 
+and are often unrecognizable until la unched against a target, we may be unable to anticipate these techniques and implement adequate 
+preventative measures. Our servers, internal systems, and platform  may be vulnerable to computer viruses or physical or electro nic 
+break-ins that our security measures may no t detect. Individuals able to circumvent our  security measures, or insiders who viol ate our 
+policies, may misappropriate confidential, pr oprietary, or personal information held by  or on behalf of us, disrupt our operati ons, 
+damage our computers, or otherwise damage our business.

@@ -1,0 +1,12 @@
+ems could result in our failure to comply with certain federal, st ate, or foreign reporting obligations, or could c ause 
+downtime that would impact the availability of our service to platform users. We have from time to time found defects or errors  in our 
+system and may discover additional defects in the future that c ould result in platform unavailability or system disruption. In addition, 
+we have experienced outages on our platform due to circumstances within our control, such as outages due to software limitations. We 
+rely on co-located data centers for the operation of our platform . If our co-located data centers fail, our platform users may experience 
+down time. If sustained or repeated, any of these outages could reduce the attractiveness of our platform to platform users. In  addition, 
+our release of new software in the past has inadvertently caused , and may in the future cause, in terruptions in the availabilit y or 
+functionality of our platform. A ny errors, bugs, or vulnerabilitie s discovered in our code or systems after release could resul t in an 
+interruption in the availability of our platform or a negative experience for Drivers, consumers, merchants, Shippers, and Carriers, and 
+could also result in negative publicity and unfavorable media covera ge, damage to our reputation, loss of platform users, loss of 
+revenue or liability for damages, regulator y inquiries, or other proceed ings, any of which could a dversely affect our business and 
+financi

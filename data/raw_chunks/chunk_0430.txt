@@ -1,0 +1,37 @@
+lities:       
+Operating cash flows from financing leases  $ 13   $ 32   $ 26  
+Operating cash flows from operating leases   339    335    332  
+Financing cash flows from financing leases   184    171    172  
+Right-of-use assets obtained in exchange for lease obligations:       
+Operating lease liabilities  $ 329   $ 84   $ 132  
+Finance lease liabilities   349    216    4  
+Supplemental balance sheet information related to leases was as follows (in millions, except lease term and discount rate): 
+  As of December 31, 
+  2023  2024 
+Operating Leases     
+Operating lease right-of-use assets  $ 1,241   $ 1,158  
+Operating lease liability, current  $ 190   $ 175  
+Operating lease liabilities, non-current   1,550    1,454  
+     Total operating lease liabilities  $ 1,740   $ 1,629  
+ 
+  As of December 31, 
+  2023  2024 
+Finance Leases     
+Property and equipment, at cost  $ 683   $ 641  
+Accumulated depreciation   (250)    (372)  
+     Property and equipment, net   $ 433   $ 269  
+Other current liabilities  $ 156   $ 136  
+Other long-term liabilities   322    174  
+     Total finance leases liabilities  $ 478   $ 310  
+ 
+  As of December 31, 
+  2023  2024 
+Weighted-average remaining lease term      
+     Operating leases  15 years  15 years 
+     Finance leases  3 years  2 years 
+Weighted-average discount rate     
+     Operating leases   6.6 %   6.7 % 
+     Finance leases   6.3 %   6.6 %  
+102 
+Maturities of lease liabilities were as follows (in millions): 
+  As of December 31,

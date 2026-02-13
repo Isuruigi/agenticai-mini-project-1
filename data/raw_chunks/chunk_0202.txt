@@ -1,0 +1,11 @@
+n policies, notices, laws, rules, and regulations, could result in proceedings or actions against us 
+in the same or other jurisdictions, and could have an adverse im pact on our reputation and brand. In addition, Careem has histo rically 
+shared certain user data with certain government authorities, which conflicts with our global po licies regarding data use, shar ing, and 
+ownership. We expect to maintain our data use, sharing, and ownership practices for both our business and Careem’s business, an d 
+doing so may cause our relationship with government authorities in  certain jurisdictions to suffer, and may result in such gove rnment 
+authorities assessing fines or penalties against us. Further, if  any jurisdiction in which we operate changes its laws, rules, or 
+regulations relating to data residency or local computation such th at we are unable to comply in a timely manner or at all, we may risk 
+losing our rights to operate in such jurisdictions. This could a dversely affect the manner in which we provide our products and  
+offerings and thus materially affect our operations and financial results. 
+Such data protection laws, rules, and regulations are complex and their interpretation is rapi dly evolving, making implementation 
+and enforcement, and thus compliance requirements, ambiguous, un certain, and potentially inconsistent.

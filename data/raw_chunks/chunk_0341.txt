@@ -1,0 +1,27 @@
+bilities, redeemable non-controlling interests and equity  $ 38,699   $ 51,244  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.  
+75 
+UBER TECHNOLOGIES, INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In millions, except share amounts which are reflected in thousands, and per share amounts) 
+  Year Ended December 31, 
+  2022  2023  2024 
+Revenue  $ 31,877   $ 37,281   $ 43,978  
+Costs and expenses       
+Cost of revenue, exclusive of depreciation and amortization shown separately below   19,659    22,457    26,651  
+Operations and support   2,413    2,689    2,732  
+Sales and marketing   4,756    4,356    4,337  
+Research and development   2,798    3,164    3,109  
+General and administrative   3,136    2,682    3,639  
+Depreciation and amortization   947    823    711  
+Total costs and expenses   33,709    36,171    41,179  
+Income (loss) from operations   (1,832)    1,110    2,799  
+Interest expense   (565)    (633)    (523)  
+Other income (expense), net   (7,029)    1,844    1,849  
+Income (loss) before income taxes and income (loss) from equity method investments   (9,426)    2,321    4,125  
+Provision for (benefit from) income taxes   (181)    213    (5,758)  
+Income (loss) from equity method investments   107    48    (38)  
+Net income (loss) including non-controlling interests   (9,138)    2,156    9,845  
+Less: net income (loss) attributable to non-controlling interests, net of tax   3    269    (11)  
+Net income (loss) attribut

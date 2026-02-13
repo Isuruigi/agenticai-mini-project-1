@@ -1,0 +1,30 @@
+d compensation expense        (1,793)  
+Legal, tax, and regulatory reserve changes and settlements (4)        (732)  
+Goodwill and asset impairments/loss on sale of assets        (25)  
+Acquisition, financing and divestitures related expenses        (46)  
+Accelerated lease costs related to cease-use of ROU assets        (6)  
+COVID-19 response initiatives        (1)  
+Loss on lease arrangement, net        (7)  
+Restructuring and related charges        (2)  
+Mass arbitration fees, net        14  
+Income from operations        (1,832)  
+Interest expense        (565)  
+Other income (expense), net        (7,029)  
+Income (loss) before income taxes and income (loss) from equity method 
+investments       $ (9,426)  
+ 
+ Year Ended December 31, 2023 
+ Mobility  Delivery  Freight  Total 
+Revenue $ 19,832   $ 12,204   $ 5,245   $ 37,281  
+Platform Participant direct transaction costs (1)  (5,130)    (5,329)    (4,714)    (15,173)  
+Other (2)  (9,739)    (5,369)    (595)    (15,703)  
+Segment Adjusted EBITDA $ 4,963   $ 1,506   $ (64)    6,405  
+Reconciling items:        
+Corporate G&A and Platform R&D (3)        (2,353)  
+Depreciation and amortization        (823)  
+Stock-based compensation expense        (1,935)  
+Legal, tax, and regulatory reserve changes and settlements (4)        (9)  
+Goodwill and asset impairments/loss on sale of assets        (84)  
+Acquisition, financing and divestitures related expenses        (36)  
+Loss on lease arrangement, net        (4)  
+Restructuring a

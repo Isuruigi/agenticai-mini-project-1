@@ -1,0 +1,28 @@
+e (loss) including non-controlling interests   (9,138)    2,156    9,845  
+Less: net income (loss) attributable to non-controlling interests, net of tax   3    269    (11)  
+Net income (loss) attributable to Uber Technologies, Inc.  $ (9,141)   $ 1,887   $ 9,856  
+Net income (loss) per share attributable to Uber Technologies, Inc. common 
+stockholders:       
+Basic  $ (4.64)   $ 0.93   $ 4.71  
+Diluted  $ (4.65)   $ 0.87   $ 4.56  
+Weighted-average shares used to compute net income (loss) per share attributable to 
+common stockholders:       
+Basic   1,972,131    2,035,651    2,094,602  
+Diluted   1,974,928    2,091,782    2,150,508  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.  
+76 
+UBER TECHNOLOGIES, INC.  
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+(In millions) 
+  Year Ended December 31, 
+  2022  2023  2024 
+Net income (loss) including non-controlling interests  $ (9,138)   $ 2,156   $ 9,845  
+Other comprehensive income (loss), net of tax:       
+Change in foreign currency translation adjustment   81    17    (95)  
+Change in unrealized gain (loss) on investments in available-for-sale 
+debt securities   —    5    (1)  
+Other comprehensive income (loss), net of tax   81    22    (96)  
+Comprehensive income (loss) including non-controlling interests   (9,057)    2,178    9,749  
+Less: comprehensive income (loss) attributable to non-controlling interests   3    269    (11)  
+Comprehensive income (loss) attributable t

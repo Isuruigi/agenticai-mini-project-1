@@ -1,0 +1,12 @@
+d, any failure to maintain good relationships with the 
+payment card networks could impact our ability to receive incentives from them, could increase our costs, or could otherwise harm our 
+business. The loss of our credit card acceptance privileges for any one of these reasons, or th e significant modification of th e terms 
+under which we obtain credit card acceptance privileges, may have an adverse effect on our business, revenue, and operating results. 
+Our platform is highly technical, and any undetected errors could adversely affect our business. 
+Our platform is a complex system composed of many interope rating components and incorporat es software that is highly 
+complex. Our business is dependent upon our ability to prevent system interruption on our plat form. Our software, including ope n 
+source software that is incorporated into our code, may now or  in the future contain undetected errors, bugs, or vulnerabilitie s. Some 
+errors in our software code may only be discovered after the code  has been released. Bugs in our software, third-party software  
+including open source software that is incorporated into our code , misconfigurations of our syst ems, and unintended interaction s 
+between systems could result in our failure to comply with certain federal, st ate, or foreign reporting obligations, or could c ause 
+downtime that would impact the availability of our service to platform users.

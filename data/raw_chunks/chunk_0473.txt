@@ -1,0 +1,29 @@
+a full valuation allowance. 
+(3) In 2024, we released $5.2 billion of our valuation allowance on our U.S. federal deferred tax assets. This is included on the 
+change in valuation allowance line-item. 
+The components of deferred tax assets and liabilities as of December 31, 2023 and 2024 are as follows (in millions): 
+  As of December 31, 
+  2023  2024 
+Deferred tax assets     
+Net operating loss carryforwards  $ 6,164   $ 4,319  
+Research and development credits   1,275    1,539  
+Stock-based compensation   66    71  
+Accruals and reserves   440    730  
+Accrued legal   120    221  
+Fixed assets and intangible assets   4,135    3,500  
+Lease liability   436    391  
+Interest limitation carryforwards   876    760  
+Capitalized research expenses   771    1,317  
+Other   211    381  
+Total deferred tax assets   14,494    13,229  
+Less: Valuation allowance   (13,945)    (6,267)  
+Total deferred tax assets, net of valuation allowance   549    6,962  
+Deferred tax liabilities     
+Investments   114    515  
+ROU assets   301    270  
+Other   18    14  
+Total deferred tax liabilities   433    799  
+Net deferred tax assets (liabilities)  $ 116   $ 6,163  
+The income tax benefit was $5.8 billion for the year ended December 31, 2024, which includes a $6.4 billion benefit related to the 
+release of our valuation allowance on the U.S. federal and state deferred tax assets, with the exception of our California R&D credits 
+and other non-material deferred tax assets.

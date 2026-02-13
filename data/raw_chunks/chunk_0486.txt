@@ -1,0 +1,32 @@
+Goodwill and asset impairments/loss on sale of assets        (84)  
+Acquisition, financing and divestitures related expenses        (36)  
+Loss on lease arrangement, net        (4)  
+Restructuring and related charges        (51)  
+Income from operations        1,110  
+Interest expense        (633)  
+Other income (expense), net        1,844  
+Income (loss) before income taxes and income (loss) from equity method 
+investments       $ 2,321   
+120 
+ 
+ Year Ended December 31, 2024 
+ Mobility  Delivery  Freight  Total 
+Revenue $ 25,087   $ 13,750   $ 5,141   $ 43,978  
+Platform Participant direct transaction costs (1)  (6,884)    (5,591)    (4,652)    (17,127)  
+Other (2)  (11,706)    (5,688)    (563)    (17,957)  
+Segment Adjusted EBITDA $ 6,497   $ 2,471   $ (74)    8,894  
+Reconciling items:        
+Corporate G&A and Platform R&D (3)        (2,410)  
+Depreciation and amortization        (711)  
+Stock-based compensation expense        (1,796)  
+Legal, tax, and regulatory reserve changes and settlements (4)        (1,123)  
+Goodwill and asset impairments/loss on sale of assets        (3)  
+Acquisition, financing and divestitures related expenses        (25)  
+Loss on lease arrangement, net        (2)  
+Restructuring and related charges        (25)  
+Income from operations        2,799  
+Interest expense        (523)  
+Other income (expense), net        1,849  
+Income (loss) before income taxes and income (loss) from equity method 
+investments       $ 4,125  
+(1) Platform Partic

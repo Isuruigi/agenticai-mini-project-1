@@ -1,0 +1,12 @@
+third party to prevent or mitigate security breaches or improper access to, or use, acquisition, disclosure, al teration, or 
+destruction of, such data could have similar adverse consequences for us. 
+This risk is enhanced in certain jurisdictions with stringent privacy laws and, as we expand our products, offerings, and operations 
+domestically and internationally, we have been, and may continue to become subject to amended or additional laws that impose 
+substantial additional obligations related to data privacy and security. The EU adopted the GDPR in 2016, and it became effecti ve in 
+May 2018. The GDPR applies extraterritorially and imposes stringent  requirements for controllers and processors of personal dat a. 
+Such requirements include higher consent standards to process pe rsonal data, robust disclosures regarding the use of personal d ata, 
+strengthened individual data rights, data br each requirements, limitations on data re tention, strengthened requirements for spe cial 
+categories of personal data and pseudonymised (i.e., key-coded) data, and additional obligations for contracting with service providers 
+that may process personal data. In addition, the GDPR contains a provision that individuals shall have the right not to be subj ect to a 
+decision based solely on automated processing, including profiling,  which produces legal effects concerning them or similarly 
+significantly affects them.

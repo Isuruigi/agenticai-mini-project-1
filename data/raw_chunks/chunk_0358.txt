@@ -1,0 +1,14 @@
+1,519    2,172  
+Total cash and cash equivalents, and restricted cash and cash equivalents  $ 6,677   $ 7,004   $ 8,610  
+Accounts Receivable and Allowance for Doubtful Accounts 
+Accounts receivable represents: (i) uncollected payments from e nd-users for completed transactions where the payment method is 
+credit card and includes (a) end-user payments not yet settled with payment service providers and (b) end-user payments settled  by 
+payment service providers but not yet remitted to us; (ii) co mpleted shipments where we have an unconditional right to the 
+consideration from Freight customers (“Shippers”) and payment has not been received; or (iii) uncollected payments from Uber fo r 
+Business organizations for completed transactions. The timing of settlement of amounts due from these parties varies by region and by 
+product. The portion of the receivable to be remitted to Drivers and Merchants is included in accrued and other current liabili ties on 
+the consolidated balance sheets. Refer to Note 9 – Supplementa l Financial Statement Information for amounts payable to Drivers and 
+Merchants. 
+Although we pre-authorize forms of payment to mitigate our exposur e, we bear the cost of any accounts receivable losses. We 
+record an allowance for doubtful accounts for accounts receivable that may never settle or be collected, as well as for credit card 
+chargebacks including fraudulent credit card transactions.

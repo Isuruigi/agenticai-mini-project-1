@@ -1,0 +1,26 @@
+2,754  
+Operating lease liabilities, current   190    175  
+Accrued and other current liabilities   6,397    7,689  
+Total current liabilities   9,454    11,476  
+Long-term insurance reserves   4,909    7,042  
+Long-term debt, net of current portion   9,459    8,347  
+Operating lease liabilities, non-current   1,550    1,454  
+Other long-term liabilities   645    449  
+Total liabilities   26,017    28,768  
+Commitments and contingencies (Note 14)     
+Redeemable non-controlling interests   654    93  
+Equity     
+Common stock, $0.00001 par value, 5,000,000 shares authorized for both 
+periods, 2,071,144 and 2,107,953 shares issued and outstanding, 
+respectively   —    —  
+Additional paid-in capital   42,264    42,801  
+Accumulated other comprehensive loss   (421)    (517)  
+Accumulated deficit   (30,594)    (20,726)  
+Total Uber Technologies, Inc. stockholders' equity   11,249    21,558  
+Non-redeemable non-controlling interests   779    825  
+Total equity   12,028    22,383  
+Total liabilities, redeemable non-controlling interests and equity  $ 38,699   $ 51,244  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.  
+75 
+UBER TECHNOLOGIES, INC.

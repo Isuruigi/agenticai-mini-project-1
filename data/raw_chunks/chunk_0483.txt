@@ -1,0 +1,20 @@
+ion 
+We determine our operating segments based on how the CODM, our  Chief Executive Officer, manages the business, allocates 
+resources, makes operating decisions and evaluates operating performance. 
+As of December 31, 2024, our three operating and reportable segments are as follows: 
+Segment  Description 
+Mobility  Mobility products connect consumers with  Drivers who provide rides in a va riety of vehicles, such as cars, 
+auto rickshaws, motorbikes, minibuses, or taxis. Mob ility also includes activity related to our financial 
+partnerships products and advertising. 
+Delivery 
+ 
+Delivery offerings allow consumers to search for and discover local restaurants, order a meal, and either pick-
+up at the restaurant or have the meal delivered. In certain markets, Delivery provides offerings for grocery, 
+alcohol, and convenience store delivery as well as select other goods. We refer to the grocery, alcohol, 
+convenience and retail categories collectively as Grocery & Retail. Delivery also includes advertising. 
+Freight  Freight connects Carriers with Shippers on our platform , and gives Carriers upfront, transparent pricing and 
+the ability to book a shipment. Freight also includes tr ansportation management and other logistics services 
+offerings. 
+For information about how our reportable segments derive revenue, as well as revenue grouped by offerings and geographical 
+region, refer to Note 2 – Revenue. 
+Our segment operating performance measure is segment Adjusted EBITDA.

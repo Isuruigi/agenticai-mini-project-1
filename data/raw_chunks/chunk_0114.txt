@@ -1,0 +1,12 @@
+or platforms, flaws in third-party software  or 
+services, intentional acts or errors by our employees or third-pa rty service providers, or breaches  in the security of these sy stems or 
+platforms. For example, fraudsters may attempt to induce employees , contractors, or platform users to disclose information to g ain 
+access to our data or the data of platform users. If our inci dent response, disaster recovery, and business continuity plans do  not 
+resolve these issues in an effective manner, they could result  in adverse impacts to our business operations and our financial results. 
+Because of our prominence, the number of platform users, and the types and volume of personal data on our systems, we may be a 
+particularly attractive target for such atta cks. Although we have developed, and continue to develop, systems and processes tha t are 
+designed to protect our data and that of platform users, and to prevent data loss, undesirable activities on our platform, and security 
+breaches, we cannot guarantee that such measures will provide ab solute security. Our efforts on this front may be unsuccessful as a 
+result of, for example, software bugs or other technical malfunc tions; employee, contractor, or vendor error or malfeasance; 
+government surveillance; or other threats that evolve, and we ma y incur significant costs in pr otecting against or remediating 
+cyberattacks.

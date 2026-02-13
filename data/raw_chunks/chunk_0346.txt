@@ -1,0 +1,34 @@
+$ 654     2,071,144   $ —   $ 42,264   $ (421)   $ (30,594)   $ 779   $ 12,028  
+ 
+The accompanying notes are an integral part of these consolidated financial statements.  
+79 
+UBER TECHNOLOGIES, INC.  
+CONSOLIDATED STATEMENTS OF REDEEMABLE NON-CONTROLLING INTERESTS AND EQUITY 
+(In millions, except share amounts which are reflected in thousands) 
+  Redeemable Non-
+Controlling 
+Interests 
+  Common Stock  Additional Paid-In 
+Capital 
+ Accumulated Other 
+Comprehensive 
+Income (Loss) 
+ Accumulated 
+Deficit 
+ Non-Redeemable 
+Non-Controlling 
+Interests 
+ 
+Total Equity     Shares  Amount      
+Balance as of December 31, 2023  $ 654     2,071,144   $ —   $ 42,264   $ (421)   $ (30,594)   $ 779   $ 12,028  
+Exercise of stock options   —     7,930    —    132    —    —    —    132  
+Exercise of restricted stock units   —     469    —    —    —    —    —    —  
+Stock-based compensation   —     —    —    1,847    —    —    —    1,847  
+Issuance of common stock for settlement of 
+RSUs   —     42,941    —    —    —    —    —    —  
+Issuance of common stock under the 
+Employee Stock Purchase Plan   —     3,916    —    156    —    —    —    156  
+Shares withheld related to net share settlement   —     (655)    —    (49)    —    —    —    (49)  
+Repurchase of common stock   —     (17,792)    —    (1,252)    —    —    —    (1,252)  
+Redemption of non-controlling interest   (851)     —    —    —    —    —    —    —  
+Re-measurement of non-controlling interests   345     —    —    (345)    —

@@ -1,0 +1,21 @@
+hted-average number of common shares 
+outstanding for the periods presented. Diluted net income (loss) per share is computed by giving effect to all potential weight ed 
+average dilutive common stock. For diluted net income (loss) per share, the dilutive effect of outstanding awards is reflected by 
+application of the treasury stock method and convertible securities by application of the if-converted method, as applicable. 
+We take into account the effect on consolid ated net income (loss) per share of dilutive securities of entities in which we hold  
+equity interests that are accounted for using the equity method. 
+The following table sets forth the computation of basic and diluted net income (loss) per share attributable to common 
+stockholders (in millions, except share amounts which are reflected in thousands, and per share amounts): 
+  Year Ended December 31, 
+  2022  2023  2024 
+Basic net income (loss) per share:       
+Numerator       
+Net income (loss) including non-controlling interests  $ (9,138)   $ 2,156   $ 9,845  
+Net income (loss) attributable to non-controlling interests, net of tax   3    269    (11)  
+Net income (loss) attributable to common stockholders  $ (9,141)   $ 1,887   $ 9,856  
+Denominator       
+Basic weighted-average common stock outstanding   1,972,131    2,035,651    2,094,602  
+Basic net income (loss) per share attributable to common stockholders (1)  $ (4.64)   $ 0.93   $ 4.71  
+Diluted net income (loss) per share:       
+Numerator       
+Net

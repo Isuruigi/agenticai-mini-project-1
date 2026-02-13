@@ -1,0 +1,21 @@
+egment Informati on and Geographic Information to our consolidated financial 
+statements included in Part II, Item 8, “Financial Statements and Supplementary Data,” of this Annual Report on Form 10-K. 
+  Year Ended December 31,  2023 to 2024 % 
+Change (In millions, except percentages)  2023  2024  
+Mobility  $ 4,963   $ 6,497    31 % 
+Delivery   1,506    2,471    64 % 
+Freight   (64)    (74)    (16) % 
+Corporate G&A and Platform R&D (1)   (2,353)    (2,410)    (2) % 
+Adjusted EBITDA (2)  $ 4,052   $ 6,484    60 %  
+58 
+(1) Includes costs that are not directly attri butable to our reportable segments. Corporate G&A also includes certain shared costs 
+such as finance, accounting, tax, human resources, information technology and legal costs. Platform R&D also includes mapping a nd 
+payment technologies and support and development of the inte rnal technology infrastructure. Our allocation methodology is 
+periodically evaluated and may change. 
+(2) See the section titled “Reconciliations of Non-GAAP Financial Measures” for more information and reconciliations to the most 
+directly comparable GAAP financial measure. 
+Mobility Segment 
+For the year ended December 31, 2024 compared to the same period in 2023, Mobility revenue  increased $5.3 billion, or 
+26%, and Mobility Adjusted EBITDA increased $1.5 billion, or 31%. 
+Mobility revenue increased primarily attributable to an increase in Mobility Gross Bookings of 21%, driven by an increase in Trip 
+volumes.

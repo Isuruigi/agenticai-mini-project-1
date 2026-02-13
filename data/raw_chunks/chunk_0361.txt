@@ -1,0 +1,13 @@
+utstanding debt during the period of construction-in-progress of certain assets. 
+Leases 
+We account for leases in accordance with Accounting Standard s Codification (“ASC”) 842, “Leases” (“ASC 842”). We made a 
+policy election not to separate non-lease components from lease components, therefore, we account for lease and non-lease 
+components as a single lease component. We also elected the short-term lease recognition exemption for all leases that qualify. 
+We determine if a contract contains a lease at inception of the arrangement base d on whether we have the right to obtain 
+substantially all of the economic benefits from the use of an id entified asset and whether we have the right to direct the use of an 
+identified asset in exchange for consideration, which relates to an asset which we do not own. Right of use (“ROU”) assets repr esent 
+our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from 
+the lease. ROU assets are recognized as the lease liability, adjusted for lease incentives received. Lease liabilities are recognized at the 
+present value of the future lease payments at the lease commencement date. The interest rate used to determine the present valu e of the 
+future lease payments is our incremental borrowing rate (“IBR”), because the interest rate implicit in most of our leases is no t readily 
+determinable.

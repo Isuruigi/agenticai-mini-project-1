@@ -1,0 +1,13 @@
+tility of  Uber’s stock price. We estimate the expected term based on various 
+exercise scenarios. The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of grant. 
+We record stock-based compensation expense for market-based equi ty awards such as RSUs and stock options on an accelerated 
+attribution method over the requisi te service period, and only if  performance-based conditions are considered probable to be sa tisfied. 
+We determine the requisite service period by comparing the deri ved service period to achieve the market-based condition and the  
+explicit service-based period, using the longer of the two service periods as the requisite service period. 
+Employee Stock Purchase Plan (“ESPP”) 
+We recognize stock-based expenses related to shares issued pursuant to our ESPP on a straight-line basis over the offering peri od. 
+The ESPP provides for twelve-month offering periods, and each offering period includes two purchase periods of approximately si x 
+months. The ESPP allows eligible employees to purchase shares of our common stock at a 15 percent discount on the lower price o f 
+either (i) the offering period begin date or (ii) the purchase date. We estimate the fair value of shares to be issued under th e ESPP 
+based on a combination of options valued  using the Black-Scholes option-pricing model.  We determine volatility over an expected 
+term of six months and twelve months based on our historical volatility.

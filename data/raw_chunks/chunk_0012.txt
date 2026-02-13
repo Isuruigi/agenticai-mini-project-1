@@ -1,0 +1,16 @@
+r 
+expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements.  
+4 
+PART I 
+ITEM 1. BUSINESS 
+Overview 
+Uber Technologies, Inc. (“Uber,” the “Company,” “we,” “our,” or “us”) is a technology platform that uses a massive network, 
+leading technology, operational excellence and product expertise to power movement from point A to point B. We develop and operate 
+proprietary technology applications supporting a variety of offerings on our platform (“ platform(s)” or “Platform(s)”). We conn ect 
+consumers (“Rider(s)”) with independent providers of ride services (“Mobility Driver(s)”) for ridesharing services, and connect Riders 
+and other consumers (“Eater(s)”) with restaurants, grocers and other stores (collectively, “Merchants”) with delivery service providers 
+(“Couriers”) for meal preparation, grocery and other delivery services. Riders and Eaters are collectively referred to as “end- user(s)” 
+or “consumer(s).” Mobility Dr ivers and Couriers are co llectively referred to as “Driver(s).” We also connect consumers with pub lic 
+transportation networks. We use this same network, technology, operational excellence and product expertise to connect shippers  
+(“Shipper(s)”) with carriers (“Carrier(s)”) in the freight industry by pr oviding Carriers with the ability to book a shipment, 
+transportation management and ot her logistics services.

@@ -1,0 +1,21 @@
+nted as only one MAPC. We use MAPCs 
+to assess the adoption of our platform and frequency of transact ions, which are key factors in our penetration of the countries  in which 
+we operate. 
+ 
+ 
+Trips. We define Trips as the number of comp leted consumer Mobility rides and Delivery orders in a given period. For example, 
+an UberX Share ride with three paying consumers represents three unique Trips, whereas an UberX ride with three passengers 
+represents one Trip. We believe that Trips are a useful metric to measure the scale and usage of our platform. 
+ 
+ 
+60 
+Gross Bookings. We define Gross Bookings as the total dollar value, including any applicable taxes, tolls, and fees, of: Mobility 
+rides, Delivery orders (in each case withou t any adjustment for consumer discounts and refunds, Driver and Merchant earnings, a nd 
+Driver incentives) and Freight revenue. Gross Bookings do not include tips earned by Drivers. Gross Bookings are an indication of the 
+scale of our current platform, which ultimately impacts revenue.  
+ 
+(In millions)  Q1 2023  Q2 2023  Q3 2023  Q4 2023  Q1 2024  Q2 2024  Q3 2024  Q4 2024 
+Mobility  $ 14,981   $ 16,728   $ 17,903   $ 19,285   $ 18,670   $ 20,554   $ 21,002   $ 22,798  
+Delivery   15,026    15,595    16,094    17,011    17,699    18,126    18,663    20,126  
+Freight   1,401    1,278    1,284    1,279    1,282    1,272    1,308    1,273  
+Adjusted EBITDA.

@@ -1,0 +1,11 @@
+payment proc esses, and import and export re strictions. Our business operations , 
+including our payments to Drivers and mercha nts, may not always comply with these fi nancial laws and regulations. Historical or  
+future non-compliance with these laws or regulations could resu lt in significant criminal and civil lawsuits, penalties, forfei ture of 
+significant assets, or other enforcement actions. Costs associated with fines and enforcement actions, as well as reputational harm, 
+changes in compliance requirements, or limits on our ability to expand our product offerings, could harm our business. 
+Further, our payment system is susceptible to illegal and im proper uses, including fraud on our platform such as fraud against 
+us 
+or platform users, money laundering, terrorist financing, fraudul ent sales of goods or services, and payments to sanctioned par ties. We 
+have invested and will need to continue to invest substantial resources to comply with applicable anti-money laundering and sanctions 
+laws, and in certain jurisdictions, such as the EEA, the UK and Mexico to conduct appropriate risk assessments and implement 
+appropriate controls as a regulated financial service provider.

@@ -1,0 +1,16 @@
+transformers==4.36.0
+datasets==2.14.0
+peft==0.7.0
+trl==0.7.0
+bitsandbytes==0.41.0
+accelerate==0.25.0
+weaviate-client==4.5.0
+sentence-transformers==2.2.2
+rank-bm25==0.2.2
+anthropic==0.25.0
+pypdf==3.17.0
+pandas==2.1.0
+rouge-score==0.1.2
+openpyxl==3.1.0
+torch>=2.0.0
+tqdm

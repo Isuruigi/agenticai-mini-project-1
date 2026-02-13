@@ -1,0 +1,12 @@
+ent processing infrastructure 
+declines as a result of these limitations or for any other reason,  the attractiveness of our business to Drivers, merchants, an d Carriers 
+could be adversely affected. If we are forced to migrate to ot her third-party payment service providers for any reason, the tra nsition 
+would require significant time and management resources, and may not be as effective, efficient, or well-received by platform users. 
+We currently rely on a small number of third-party service pr oviders to host a significant portion of our platform, and any 
+interruptions or delays in services from these third parties co uld impair the delivery of our pr oducts and offerings and harm o ur 
+business. 
+We use a combination of third-party cloud computing services and co-located data centers in the United States and abroad. We do  
+not control the physical operation of  any of the co-located data centers we use or the operations of our  third-party service pr oviders. 
+These third-party operations and co-located data centers may expe rience break-ins, computer viruses, denial-of-service attacks,  
+sabotage, acts of vandalism, and other misconduct. These faciliti es may also be vulnerable to damage or interruption from power  loss, 
+telecommunications failures, fires, floods, earthquakes, hurricanes , tornadoes, and similar events.

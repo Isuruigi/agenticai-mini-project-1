@@ -1,0 +1,10 @@
+ces through which we  distribute our platform will 
+maintain their current structures or that such marketplaces will not charge us fe es to list our applications for download. For example, 
+Apple Inc. requires that iOS apps obtain users’ permission to track their activities across third-party apps and websites. If i OS users do 
+not grant us such permission, our ability to  target those users for advertisements a nd to measure the effectiveness of such 
+advertisements may be adversely affected, which could decrease the effectiveness of our advertising, and increase our costs to acquire 
+and engage users on our platform. We rely upon certain third par ties to provide software for our products and offerings, includ ing 
+Google Maps for the mapping function that is critical to the func tionality of our platform. We do not believe that an alternati ve 
+mapping solution exists that can provide the global functionality that we require to offer our platform in all of the markets in which we 
+operate. We do not control all mapping functions employed by our pl atform or Drivers using our platform, and it is possible tha t such 
+mapping functions may not be reliable.

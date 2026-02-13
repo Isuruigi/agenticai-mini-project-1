@@ -1,0 +1,14 @@
+ng firms. As a global organization, Uber undergoes 
+annual audits to maintain its certification as a Payment Card  Industry Data Security Standard (PCI DSS 4.0) Level 1 
+Merchant and Service provider. Uber also undergoes annual audits to maintain its ISO 27001 certification for its core 
+mobility, delivery, and enterprise businesses, and SOC 2 attestations that vary depending on the Uber product.   
+46 
+• Cyber incident management. This includes efforts by Uber’s security engineering team, at the direction of the CISO, to 
+review potential incidents identified by Uber’s internal teams, Uber’s third-party service providers or external researchers 
+through Uber’s Bug Bounty program; identify those which represen t potential or actual threats to Uber’s systems, data or 
+users; investigate and mitigate the cause and impact of su ch incidents; and implement safeguards to help prevent 
+recurrence. Uber’s CPO and legal team support such efforts, including in connection with legal or disclosure obligations 
+triggered in connection with any such incidents.  
+• Third Party Risk Management.  Uber performs due diligence regarding its third-party suppliers, service providers and 
+business partners. This includes requiring submission of evid ence demonstrating third partie s’ ability to meet Uber’s 
+cybersecurity and data handling requirements.

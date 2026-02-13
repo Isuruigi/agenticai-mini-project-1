@@ -1,0 +1,14 @@
+stock on the 
+grant date. 
+For performance-based SARs, stock options, and warrants, we determ ine the grant-date fair value utilizing the valuation model a s 
+described above for service-based awards. 
+Market-Based Awards 
+We have granted RSUs and stock options that vest only u pon the satisfaction of the following conditions: service-based 
+conditions, performance-based conditions, and/or market-based c onditions. The service-based condition for these awards generall y is 
+satisfied over three or four years. The performance-based conditions generally are satisfied upon achieving specified performan ce 
+targets. The market-based conditions are satisfied upon our achieve ment of specified fully-diluted equity values, as determined  based 
+on our stock price. 
+For market-based awards, we de termine the grant-date fair value utilizing a M onte Carlo valuation model, which incorporates 
+various assumptions including expected stock price volatility, expected term, and risk-free interest rates. We estimate the vol atility of 
+common stock on the date of grant based on historical volatility of  Uber’s stock price. We estimate the expected term based on various 
+exercise scenarios. The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the time of grant.

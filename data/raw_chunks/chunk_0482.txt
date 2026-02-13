@@ -1,0 +1,24 @@
+—    10,339  
+2025 Convertible Notes   —    12,784    —  
+Careem Notes   —    2,547    2,321  
+Diluted weighted-average common stock outstanding   1,974,928    2,091,782    2,150,508  
+Diluted net income (loss) per share attributable to common stockholders (1)  $ (4.65)   $ 0.87   $ 4.56  
+(1) Per share amounts are calculated using unrounded numbers and therefore may not recalculate. 
+The following potentially dilutive outstanding securities were excluded from the computation of diluted net income (loss) per 
+share because their effect would have been anti-dilutive for the periods presented, or issuance of such shares is contingent upon the 
+satisfaction of certain conditions which were not satisfied by the end of the period (in thousands):  
+118 
+  Year Ended December 31, 
+  2022  2023  2024 
+Freight Series A contingently redeemable preferred stock   30,458    13,430    —  
+Convertible notes   18,250    —    —  
+RSUs   98,167    4,534    18,603  
+Stock options   20,039    207    3,009  
+Common stock subject to repurchase   2,606    —    —  
+Shares committed under ESPP   3,878    867    —  
+Warrants to purchase common stock   73    —    —  
+Total   173,471    19,038    21,612  
+ 
+Note 13 – Segment Information and Geographic Information 
+We determine our operating segments based on how the CODM, our  Chief Executive Officer, manages the business, allocates 
+resources, makes operating decisions and evaluates operating performance.

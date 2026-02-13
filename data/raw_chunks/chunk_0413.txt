@@ -1,0 +1,21 @@
+, 2024 
+  Level 1  Level 2  Level 3  Total  Level 1  Level 2  Level 3  Total 
+Financial Assets                 
+Money market funds  $ 1,153   $ —   $ —   $ 1,153   $ 1,868   $ —   $ —   $ 1,868  
+U.S. government and agency securities   —    4,840    —    4,840    —    5,848    —    5,848  
+Commercial paper   —    351    —    351    —    702    —    702  
+Corporate bonds   —    263    —    263    —    1,974    —    1,974  
+Certificates of deposit   —    266    —    266    —    38    —    38  
+Non-marketable equity securities   —    —    —    —    —    —    11    11  
+Marketable equity securities   3,401    —    —    3,401    5,106    —    —    5,106  
+Notes receivable from a related party   —    —    126    126    —    —    144    144  
+Total financial assets  $ 4,554   $ 5,720   $ 126   $10,400   $ 6,974   $ 8,562   $ 155   $15,691  
+We did not make any transfers into or out  of Level 3 of the fair value hierarchy during the years ended December 31, 2023 and 
+2024. 
+Debt Securities 
+As of December 31, 2023, the amortized cost of our debt securiti es approximates fair value. We did not record any material 
+unrealized gains or losses as of December 31, 2023. 
+The following table summarizes the amortized cost, unrealized gains and losses, and fair value of our debt securities (in millions): 
+   As of December 31, 2024 
+   Amortized Cost  Unrealized Gains  Unrealized Losses  Fair Value 
+U.S.

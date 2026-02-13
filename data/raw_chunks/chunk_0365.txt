@@ -1,0 +1,15 @@
+However, if we conclude otherwise, 
+we proceed to the quantitative assessment. 
+The quantitative assessment compares the estimated fair value of a reporting unit to its book value, including goodwill. If the  fair 
+value exceeds book value, goodwill is considered not to be impaired and no additional st eps are necessary. However, if the book value 
+of a reporting unit exceeds its fair value, an  impairment loss will be recognized in an  amount equal to that excess, limited to  the total 
+amount of goodwill allocated to that reporting unit. Refer to Note 7 – Goodwill and Intangible Assets for further information. 
+Intangible Assets, Net 
+Intangible assets are carried at cost and amortized on a straight-line basis over their estimated useful lives, which range fro m one 
+to 18 years. We review definite-lived intangible assets for im pairment under the long-lived asset model described in the Evalua tion of 
+Long-Lived Assets for Impairment section. Refer to Note 7 – Goodwill and Intangible Assets for further information. 
+Investments 
+Equity Securities 
+Accounting for our equity securities vari es depending on the marketability of the se curity and the type of investment. Our 
+marketable equity securities in publicly traded companies are measured at fair value with unrealized gains and losses recognized in the 
+consolidated statements of operations.
