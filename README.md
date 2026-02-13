@@ -117,6 +117,7 @@ Mini Project 1/
 - **Base Model**: Llama-3 8B
 - **Method**: QLoRA with 4-bit quantization
 - **Training**: ~1,000 Q&A pairs, 3 epochs
+- **Note**: The adapter weights (`adapter_model.safetensors`) are excluded from this repository due to GitHub file size limits. Run `python utils/finetune_intern.py` to regenerate them locally.
 - **Strengths**: 
   - Fast inference (local)
   - Learns document style

@@ -24,6 +24,7 @@ ENV/
 # models/lora_adapters/adapter_model.bin  <-- check size
 *.zip
 checkpoint-*/
+*.safetensors
 
 # Logs and temp
 *.log
